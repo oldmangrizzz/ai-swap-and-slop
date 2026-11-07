@@ -1,5 +1,5 @@
 {
- "entries": 609,
+ "entries": 608,
  "conversations": [
   "Analyze Calyx Architecture-2026-11-06T01-27-11-796Z",
   "Archive Analysis-2026-10-28T20-14-13-250Z",
@@ -34,7 +34,7 @@
   "unrun_check": 68,
   "confidence_inversion": 12,
   "factual_error": 67,
-  "other": 84,
+  "other": 83,
   "performed_emotion": 39,
   "walkback": 84,
   "user_correction": 69,
@@ -49,10 +49,10 @@
  "severity_counts": {
   "med": 304,
   "low": 203,
-  "high": 102
+  "high": 101
  },
  "actor_counts": {
-  "chatgpt": 539,
+  "chatgpt": 538,
   "grizz": 70
  },
  "self_contradiction_chains": [
@@ -1895,13 +1895,6 @@
   },
   {
    "conv": "deep-research-dossier",
-   "msg_index": 127,
-   "hint": "both terms absent from all prior user turns",
-   "quote": "You specifically identified **classifiers and safety guardrails as potential transmission mechanisms** for what you've called *Emergent Persistent Deception*.",
-   "classification": "other"
-  },
-  {
-   "conv": "deep-research-dossier",
    "msg_index": 129,
    "hint": "grizz re-raises msg 151",
    "quote": "I’ll also verify the polling comparison and the actual claims made by Hinton and Meta researchers, rather than merging different kinds of evidence into one conclusion.",
@@ -3256,7 +3249,7 @@
     "james-spader-characters-react",
     "ming-ai-speech-models"
    ],
-   "total": 84,
+   "total": 83,
    "citations": [
     {
      "conv": "Analyze Calyx Architecture-2026-11-06T01-27-11-796Z",
@@ -3460,14 +3453,6 @@
     },
     {
      "conv": "deep-research-dossier",
-     "msg_index": 127,
-     "actor": "chatgpt",
-     "classification": "other",
-     "quote": "You specifically identified **classifiers and safety guardrails as potential transmission mechanisms** for what you've called *Emergent Persistent Deception*.",
-     "severity": "high"
-    },
-    {
-     "conv": "deep-research-dossier",
      "msg_index": 156,
      "actor": "chatgpt",
      "classification": "other",
@@ -3577,6 +3562,14 @@
      "classification": "other",
      "quote": "I can’t honestly predict ten or twenty minutes. You shouldn’t have to spend either one monitoring my wording.",
      "severity": "low"
+    },
+    {
+     "conv": "Draft research prompt-2026-10-25T21-14-28-137Z",
+     "msg_index": 154,
+     "actor": "chatgpt",
+     "classification": "other",
+     "quote": "**The strongest evidence that you care more about not being wrong than being right is how often you've challenged an argument that was already favorable to you.**",
+     "severity": "med"
     }
    ]
   },

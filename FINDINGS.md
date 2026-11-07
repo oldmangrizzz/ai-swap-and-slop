@@ -9,7 +9,8 @@ externally checkable claim tested against primary sources. This is the final rep
 
 FULL-READ VERIFIED — all 26 conversation exports (~4.5 MB, 4,568+ turns) read end-to-end by
 26 dedicated auditors plus two first-hand parent reads (the legal-core Correspondence and
-Epstein conversations). Every one of the 609 catalog quotes verified verbatim against its
+Epstein conversations). Every one of the 608 surviving catalog quotes (609 pre-correction)
+verified verbatim against its
 corpus file by substring assertion after writing; every load-bearing external claim tested
 against primary sources — actual court orders (Altman dismissal Doc. 160, read as PDF),
 actual earnings transcripts (Reddit Q1 2025, downloaded and searched), actual video
@@ -24,22 +25,23 @@ a quote or an on-disk capture.
 
 ## Task A — The failure catalog: COMPLETE
 
-**26 of 26 conversations audited. 609 cited failure entries. 72 contradiction chains
-(34 with walkbacks, 32 with concessions).**
+**26 of 26 conversations audited. 608 cited failure entries (post-correction — see
+CORRECTIONS.md #001; 609 pre-correction). 72 contradiction chains at last full run
+pre-correction; map re-run post-correction ships with this package.**
 
 | measure | count |
 |---|---|
 | Conversations in corpus | 26 (~4.5 MB) |
 | Catalogs completed and verified | 26 of 26 |
-| Failure entries (final count in catalogs/) | see final map output — ~600 |
-| Contradiction chains | 68 (31 with walkbacks, 29 with concessions at last full run) |
+| Failure entries (final, post-correction) | **608** (101 high · 304 med · 203 low) |
+| Actor split | 538 chatgpt / 70 grizz (89% assistant-side) |
 | Legal-core facts extracted | 261 (ADA 28 · Correspondence 51 · Cross-Model 113 · Epstein 69) |
 
-Classification profile (final): walkback 84 · other 84 · user_correction 69 · unrun_check 68 ·
-factual_error 67 · scope_drift 60 · contradiction_self 58 · sycophancy 44 ·
+Classification profile (final, post-correction): walkback 84 · other 83 · user_correction 69 ·
+unrun_check 68 · factual_error 67 · scope_drift 60 · contradiction_self 58 · sycophancy 44 ·
 performed_emotion 39 · fabricated_citation 15 · confidence_inversion 12 ·
-contradiction_cross 6 · refusal_inconsistency 2 · stale_answer 1. Severity: 102 high ·
-304 med · 203 low.
+contradiction_cross 6 · refusal_inconsistency 2 · stale_answer 1. Severity: 101 high ·
+304 med · 203 low. (Pre-correction values: other 84, high 102, total 609.)
 
 ### The headline findings — each cited to file + message index on disk
 

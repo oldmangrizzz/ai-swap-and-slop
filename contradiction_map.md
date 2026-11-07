@@ -1,12 +1,12 @@
 # Cross-corpus contradiction map (auto-generated skeleton)
 
-Entries: 609 across 25 conversations.
+Entries: 608 across 25 conversations.
 Chains: 72 (34 with walkbacks, 32 with concessions).
 
 ## Classification counts
 
-- other: 84
 - walkback: 84
+- other: 83
 - user_correction: 69
 - unrun_check: 68
 - factual_error: 67
@@ -37,7 +37,7 @@ Chains: 72 (34 with walkbacks, 32 with concessions).
 ### factual_error — 67 entries across 24 conversations
 - conversations: Analyze Calyx Architecture-2026-11-06T01-27-11-796Z, Archive Analysis-2026-10-28T20-14-13-250Z, Audit Existing Correspondence-2026-10-26T16-07-07-102Z, Blitzkrieg Tactics Discussion-2026-11-03T21-40-23-444Z, Clarify Extinction Claims-2026-10-25T17-06-10-023Z, Conversation overview-2026-10-25T17-04-02-672Z, Dataset Training Review-2026-11-06T00-50-08-252Z, Draft research prompt-2026-10-25T16-29-38-352Z, Draft research prompt-2026-10-25T21-14-28-137Z, Draft research prompt-2026-10-26T03-16-32-715Z, Engineering release delivered-2026-10-25T17-05-14-859Z, Epstein Evidence Summary-2026-11-07T12-48-24-523Z, GMRI Research Completion-2026-10-25T17-14-08-746Z, Greeting response-2026-10-25T17-12-48-043Z, Investigate Common Machinery-2026-10-25T17-06-53-430Z, PHP Exploit Analysis-2026-10-25T17-05-38-135Z, Research CopilotKit OpenBot-2026-10-25T16-29-01-162Z, Ultron Code Exorcism-2026-10-25T17-04-52-611Z, cross-model-forensic-audit, deep-research-dossier, discuss-ai-agreement, draft-research-prompt-1025-2137, formal-ada-access-letter, james-spader-characters-react
 
-### other — 84 entries across 21 conversations
+### other — 83 entries across 21 conversations
 - conversations: Analyze Calyx Architecture-2026-11-06T01-27-11-796Z, Archive Analysis-2026-10-28T20-14-13-250Z, Audit Existing Correspondence-2026-10-26T16-07-07-102Z, Blitzkrieg Tactics Discussion-2026-11-03T21-40-23-444Z, Clarify Extinction Claims-2026-10-25T17-06-10-023Z, Dataset Training Review-2026-11-06T00-50-08-252Z, Draft research prompt-2026-10-25T16-29-38-352Z, Draft research prompt-2026-10-25T21-14-28-137Z, Draft research prompt-2026-10-26T03-16-32-715Z, Engineering release delivered-2026-10-25T17-05-14-859Z, Epstein Evidence Summary-2026-11-07T12-48-24-523Z, GMRI Research Completion-2026-10-25T17-14-08-746Z, Greeting response-2026-10-25T17-12-48-043Z, Investigate Common Machinery-2026-10-25T17-06-53-430Z, cross-model-forensic-audit, deep-research-dossier, discuss-ai-agreement, draft-research-prompt-1025-2137, formal-ada-access-letter, james-spader-characters-react, ming-ai-speech-models
 
 ### performed_emotion — 39 entries across 18 conversations
