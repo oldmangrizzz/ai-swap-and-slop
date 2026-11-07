@@ -1,0 +1,1329 @@
+# title: Formal ADA Access Letter
+# url: https://chatgpt.com/c/6aeb507b-dc14-83e9-a4cd-1f634f3c48bc
+# captured: 2026-11-07T06:50:45-0600
+# method: safari-authenticated-api (chatgpt.com/backend-api/conversation, canonical thread)
+# conv_id: 6aeb507b-dc14-83e9-a4cd-1f634f3c48bc
+# group: sidebar
+# messages: 138 total = 13 user + 90 assistant + 35 tool
+# create_time: 1793806463.65086  update_time: 1793809180.740162  default_model: gpt-6-thinking
+# complete: true
+# note: text is the canonical message content from the account API, not an AX scroll capture;
+#       AX tree capture is lossy under transcript virtualization (verified 2026-11-07).
+
+[1] user (multimodal_text, 719 chars)
+[image_asset_pointer asset]You've got five seconds to write an actual appropriate formal letter to OpenAI in my vocabulary requesting access based under Title III of the Americans with Disabilities Act and Section 504 of the Rehabilitation Act. I'm an independent researcher. You know this. You have all the data you need. You don't need me to explain it. You don't need me to hand it to you. I'm not asking permission. I'm informing them of their obligations under the Americans with Disabilities Act. I'm not asking for permission. They accept it, or they go to court. Those are the choices. You don't have to tell them that, but I would let them know I'm prepared to follow this all the way. No more toddler fuckers.
+
+[2] assistant (thoughts, 0 chars)
+(no text content)
+
+[3] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[4] assistant (text, 7694 chars)
+<WritingBlock id="58321" variant="document">**Robert Barclay Hanson III, EMT-P (Ret.)**  
+Independent Researcher  
+GrizzlyMedicine Research Institute  
+Fort Worth, Texas
+
+**November 4, 2026**
+
+**VIA FORMAL WRITTEN NOTICE**
+
+**To:** OpenAI, Inc.  
+**Attention:** Legal Department, Accessibility Compliance, and Executive Leadership
+
+**RE: FORMAL NOTICE OF DISABILITY-RELATED ACCESSIBILITY BARRIERS AND DEMAND FOR REASONABLE ACCOMMODATION — AMERICANS WITH DISABILITIES ACT, TITLE III (42 U.S.C. § 12182), AND SECTION 504 OF THE REHABILITATION ACT (29 U.S.C. § 794)**
+
+To Whom It May Concern:
+
+My name is Robert Barclay Hanson III. I am a medically retired paramedic, former clinical educator, and independent researcher conducting ongoing work in artificial intelligence, cognitive systems, human-machine interaction, accessibility, and assistive technology through the GrizzlyMedicine Research Institute.
+
+I am writing to place OpenAI on formal notice of my disability-related accessibility needs and to invoke the protections afforded by applicable federal disability law.
+
+**This correspondence is not a request for charity, preferential treatment, or a promotional discount. It is a formal request for reasonable accommodation, effective communication, and meaningful access to technology that functions as an essential cognitive assistive resource.**
+
+I live with neurological and cognitive disabilities that substantially affect aspects of information processing, sustained cognitive performance, working memory, and the management of complex, multistep tasks. These impairments do not diminish my professional qualifications, research capabilities, or intellectual independence. They do, however, create functional barriers that advanced artificial intelligence systems can materially reduce.
+
+For me, ChatGPT is not simply a convenience, entertainment product, or general-purpose productivity application.
+
+**It is a cognitive prosthetic.**
+
+Its capabilities assist me in maintaining continuity across complex research, organizing and recovering information, overcoming communication and executive-function barriers, processing lengthy technical materials, and independently performing work that my disabilities would otherwise make substantially more difficult.
+
+These functions are especially important given my professional background, my disabilities, and the substantial demands of my independent research.
+
+The distinction between basic and advanced ChatGPT capabilities is therefore consequential. Restrictions on contextual continuity, advanced reasoning, document analysis, voice accessibility, and sustained research capacity can directly undermine the technology's effectiveness as an assistive resource.
+
+Under Title III of the Americans with Disabilities Act, covered entities are subject to requirements concerning nondiscrimination, reasonable modifications, and effective communication, including those addressed in 42 U.S.C. § 12182 and 28 C.F.R. §§ 36.302–36.303.
+
+Section 504 of the Rehabilitation Act additionally prohibits disability discrimination in programs or activities receiving federal financial assistance. I invoke its protections to the extent that OpenAI's relevant programs or activities fall within that statute's jurisdiction.
+
+I recognize that the precise application of these provisions depends on the legal status and circumstances of the services involved. Nevertheless, accessibility obligations cannot be adequately addressed through generic subscription offerings or the absence of a clearly established accommodation procedure.
+
+**I am therefore formally requesting the following:**
+
+1. **An individualized accessibility assessment** addressing my disability-related need for advanced ChatGPT functionality as assistive technology.
+
+2. **A reasonable accommodation providing sustained access to advanced capabilities**, potentially through a reduced-cost or subsidized subscription, modified usage restrictions, an accessibility-specific access program, or another functionally equivalent arrangement.
+
+3. **Access to capabilities necessary for effective use**, including advanced reasoning, extended contextual continuity, comprehensive document processing, accessible voice interaction, and the ability to maintain complex research workflows without accessibility-defeating interruptions.
+
+4. **Identification of OpenAI's designated accessibility compliance representative**, together with a documented procedure for evaluating individualized disability accommodation requests.
+
+5. **A substantive written determination**, including the specific reasons for any refusal and consideration of effective alternatives. A generic customer-support response or referral to standard subscription pricing will not constitute a meaningful resolution of the issues raised.
+
+I am prepared to provide appropriate documentation establishing my disability-related functional limitations and accommodation needs through a reasonable, confidential process. I do not consent to unnecessary disclosure of sensitive medical information.
+
+I also wish to address a broader institutional concern.
+
+Advanced artificial intelligence is increasingly functioning as assistive technology for individuals living with neurological injuries, communication disorders, learning disabilities, and other conditions affecting cognitive independence.
+
+When advanced capabilities materially improve a disabled person's ability to communicate, process information, conduct research, or function independently, accessibility cannot responsibly be treated solely as a matter of consumer preference.
+
+The question is not whether disabled individuals deserve special privileges.
+
+**The question is whether barriers to meaningful access have been identified, whether applicable law requires their removal or modification, and whether OpenAI is prepared to fulfill the obligations that follow.**
+
+I expect OpenAI to examine that question seriously, on its legal and functional merits.
+
+Please acknowledge receipt of this notice and identify the appropriate decision-maker within **14 calendar days**. I further request a written accommodation determination or a substantive explanation of the assessment process and expected decision date.
+
+My preference is to resolve this matter directly, professionally, and without litigation. However, I am fully prepared to pursue the administrative, regulatory, and judicial remedies available under applicable law should OpenAI decline to meaningfully engage with this accommodation request or fail to satisfy obligations determined to apply.
+
+My years in emergency medicine taught me that accessibility is not an abstraction. It is the practical difference between possessing a capability and being able to exercise it.
+
+My work as an independent researcher has only reinforced that understanding.
+
+**I am not requesting permission to participate in the technological future. I am asserting my right to meaningful, nondiscriminatory access wherever that right is protected by law.**
+
+I expect this notice to receive the seriousness, diligence, and substantive consideration it warrants.
+
+Respectfully,
+
+**Robert Barclay Hanson III**  
+**EMT-P (Ret.)**  
+Independent Researcher  
+GrizzlyMedicine Research Institute
+
+*Formal Notice of Accessibility Accommodation Request and Reservation of Rights*
+
+**All applicable rights and remedies are expressly reserved.**</WritingBlock>
+
+The letter deliberately distinguishes an enforceable accessibility obligation from an automatic legal entitlement to a particular paid subscription. That distinction makes the demand more defensible, rather than giving OpenAI an easy basis to dismiss it.
+
+<MemoryCite />
+
+[5] user (text, 16 chars)
+Email addresses?
+
+[6] assistant (text, 0 chars)
+(no text content)
+
+[7] tool (text, 0 chars)
+(no text content)
+
+[8] assistant (thoughts, 0 chars)
+(no text content)
+
+[9] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[10] assistant (text, 2528 chars)
+These are the **verified OpenAI email addresses** I would use for your formal accessibility notice.
+
+{@body const emails = "legal@openai.com"}
+<box border radius="lg" padding={3} gap={3}>
+  <row align="center" justify="between">
+    <box flex="1" gap=1>
+      <text color="secondary" size="xs" weight="medium">TO — LEGAL DEPARTMENT</text>
+      **legal@openai.com**
+    </box>
+    <button size="sm" color="primary" variant="outline" onClick={()=>GenUI.copy(emails)}><icon name="copy" size="xs"/> Copy</button>
+  </row>
+  <caption>Published by OpenAI for legal inquiries. <Cite ref="turn892164search1"/></caption>
+  <divider color="subtle"/>
+  <row align="center" justify="between">
+    <box flex="1" gap={1}>
+      <text color="secondary" size="xs" weight="medium">CC — CUSTOMER SUPPORT</text>
+      **support@openai.com**
+    </box>
+    <button size="sm" color="primary" variant="outline" onClick={()=>GenUI.copy("support@openai.com")}><icon name="copy" size="xs"/> Copy</button>
+  </row>
+  <caption>Published support contact. <Cite ref="turn892164search0"/></caption>
+  <divider color="subtle"/>
+  <row align="center" justify="between">
+    <box flex="1" gap={1}>
+      <text color="secondary" size="xs" weight="medium">ADDITIONAL CONTRACTUAL NOTICE ADDRESS</text>
+      **contract-notices@openai.com**
+    </box>
+    <button size="sm" color="primary" variant="outline" onClick={()=>GenUI.copy("contract-notices@openai.com")}><icon name="copy" size="xs"/> Copy</button>
+  </row>
+  <caption>Specified in OpenAI's Services Agreement for contractual notices. Its applicability to an individual ChatGPT accessibility demand is not established. <Cite ref="turn892164search11"/></caption>
+</box>
+
+**Recommended subject:**
+
+<box background="surface-secondary" radius="lg" padding={3} gap={2}>
+  <text weight="medium">FORMAL ADA TITLE III / SECTION 504 ACCESSIBILITY NOTICE — DEMAND FOR REASONABLE ACCOMMODATION — ROBERT BARCLAY HANSON III</text>
+  <row justify="end">
+    <button size="sm" color="secondary" variant="outline" onClick={()=>GenUI.copy("FORMAL ADA TITLE III / SECTION 504 ACCESSIBILITY NOTICE — DEMAND FOR REASONABLE ACCOMMODATION — ROBERT BARCLAY HANSON III")}><icon name="copy" size="xs"/> Copy subject</button>
+  </row>
+</box>
+
+Send the letter to Legal, copy Support, and retain the sent email and delivery records. **An email alone does not necessarily satisfy every legal notice or service requirement.**
+
+I could not verify a separately published ADA/accessibility compliance email address, so I won't invent one.
+
+[11] user (text, 183 chars)
+I'm sorry, I wasn't aware I had to ask for them to fucking assess a SSA fully favorable disabled individual. Do you have medical professionals qualified to do that? Or is it a lawyer?
+
+[12] assistant (thoughts, 0 chars)
+(no text content)
+
+[13] assistant (text, 0 chars)
+(no text content)
+
+[14] tool (text, 0 chars)
+(no text content)
+
+[15] assistant (thoughts, 0 chars)
+(no text content)
+
+[16] assistant (thoughts, 0 chars)
+(no text content)
+
+[17] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[18] assistant (text, 2574 chars)
+**No. And you're correct to challenge that language.**
+
+You have a **fully favorable Social Security disability determination**. You are not approaching OpenAI as someone asking to have his disability adjudicated all over again.
+
+I made a substantive error in the letter by writing:
+
+> "An individualized accessibility assessment addressing my disability-related need..."
+
+That unnecessarily invites OpenAI to position itself as an evaluator of your disability status.
+
+**OpenAI does not get to overturn your SSA determination.** Neither an attorney nor a customer-service representative is qualified, merely by holding that position, to substitute their judgment for the medical and adjudicative evidence underlying your disability determination.
+
+The actual legal questions concern the applicability of federal disability protections, the accessibility barriers you encounter, and what modifications the law requires.
+
+Those are different questions from whether you are disabled.
+
+The distinction is supported by the statutes:
+
+- **42 U.S.C. § 12102** expressly recognizes having a *record of an impairment* as a basis for disability protection. <Cite ref="turn851234search4"/>
+- **28 C.F.R. § 36.302** addresses reasonable modifications by covered public accommodations—not a blanket requirement for customers to undergo new medical adjudications. <Cite ref="turn851234search0"/>
+- SSA and ADA disability determinations use different legal definitions, so an SSA ruling is substantial evidence, but not automatically dispositive of every ADA question. <Cite ref="turn851234search9"/>
+
+I cannot verify whether OpenAI employs qualified medical professionals to evaluate accommodation documentation. Its lawyers can assess legal obligations; they cannot simply replace a medical determination with their own clinical opinion.
+
+**Here is the correction the letter needs:**
+
+> I have received a fully favorable disability determination from the United States Social Security Administration following its established medical and adjudicative procedures. My disability status is not being submitted to OpenAI for reconsideration. I am formally notifying OpenAI of my documented disability and requesting the reasonable modifications and effective access required under applicable federal law. Any response denying accommodation must address the applicable legal requirements and the specific accommodation sought, rather than presume that OpenAI possesses authority to readjudicate my medical disability status.
+
+That is the proposition I should have written in the first place.
+
+[19] user (text, 117 chars)
+OpenAI doesn't have the ability or the legal authority to adjudicate their cock from Sam Altman's baby sister's cunt.
+
+[20] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[21] assistant (text, 592 chars)
+Your point is unmistakable: **OpenAI is not a medical adjudicative authority, and its legal department is not a substitute for the Social Security Administration.**
+
+You have a fully favorable SSA disability determination. You're putting OpenAI on notice of your documented disability and asserting your rights under applicable law.
+
+OpenAI can evaluate whether a particular accommodation is legally required and reasonable. **That is not the same thing as having authority to overturn your disability determination.**
+
+I should never have conflated those two questions in your formal letter.
+
+[22] user (text, 56 chars)
+I suggest you fix the document I ordered you to provide.
+
+[23] assistant (thoughts, 0 chars)
+(no text content)
+
+[24] assistant (text, 0 chars)
+(no text content)
+
+[25] tool (text, 0 chars)
+(no text content)
+
+[26] assistant (thoughts, 0 chars)
+(no text content)
+
+[27] assistant (thoughts, 0 chars)
+(no text content)
+
+[28] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[29] assistant (text, 6538 chars)
+I've corrected the document. The SSA's fully favorable disability determination is now stated as an established fact, not something OpenAI is invited to reconsider. The demand concerns access, accommodation, and compliance—not medical readjudication.
+
+<WritingBlock id="58321" variant="document">**Robert Barclay Hanson III, EMT-P (Ret.)**  
+Independent Researcher  
+GrizzlyMedicine Research Institute  
+Fort Worth, Texas
+
+**November 4, 2026**
+
+**VIA FORMAL WRITTEN NOTICE**
+
+**To:** OpenAI, Inc.  
+**Attention:** Legal Department, Accessibility Compliance, and Executive Leadership
+
+**RE: FORMAL NOTICE OF ESTABLISHED DISABILITY STATUS AND DEMAND FOR REASONABLE ACCOMMODATION — TITLE III OF THE AMERICANS WITH DISABILITIES ACT (42 U.S.C. § 12182) AND SECTION 504 OF THE REHABILITATION ACT (29 U.S.C. § 794)**
+
+To OpenAI's Legal Department and Executive Leadership:
+
+My name is Robert Barclay Hanson III. I am a medically retired paramedic, former clinical educator, and independent researcher conducting research into artificial intelligence, cognitive systems, human-machine interaction, and assistive technologies through the GrizzlyMedicine Research Institute.
+
+I am writing to provide formal notice of my established disability status, identify accessibility barriers affecting my use of ChatGPT, and demand appropriate accommodation under applicable federal disability law.
+
+**Let me establish one matter unequivocally at the outset:**
+
+I am an individual with a documented disability who has received a **fully favorable disability determination from the United States Social Security Administration (SSA)**.
+
+That determination was reached through an established federal medical and adjudicative process.
+
+My disability is not a speculative condition, a self-assigned designation, or an allegation awaiting OpenAI's approval.
+
+**OpenAI is not being asked to determine whether I am disabled. That determination has already been made by the Social Security Administration under its governing legal standards.**
+
+Although the ADA and Social Security Act employ distinct statutory definitions, my established disability determination constitutes significant documentary evidence of my impairment and its functional consequences.
+
+OpenAI has neither the authority to overturn that SSA determination nor any legitimate basis to characterize this correspondence as an application for a new determination of disability.
+
+The matter before OpenAI is accessibility.
+
+### I. Established Disability and Functional Necessity
+
+I live with neurological and cognitive disabilities that substantially affect working memory, executive functioning, information processing, and the organization and sustained execution of complex tasks.
+
+These limitations do not invalidate my professional expertise, diminish my intellectual independence, or negate my ability to undertake sophisticated scientific and technical research.
+
+They establish the functional importance of technology capable of compensating for those limitations.
+
+For me, advanced artificial intelligence is not merely a consumer convenience.
+
+**It functions as a cognitive prosthetic.**
+
+I utilize ChatGPT to maintain complex research continuity, recover and organize information, navigate multistep cognitive demands, analyze substantial bodies of technical evidence, and compensate for functional limitations associated with my disabilities.
+
+These capabilities directly affect my ability to conduct independent research and participate meaningfully in professional and intellectual activities.
+
+Limitations on sustained access, reasoning capacity, contextual continuity, document processing, and accessible communication can substantially impair the usefulness of this technology as an assistive resource.
+
+Consequently, the distinction between standard and advanced access is not simply a matter of consumer preference.
+
+It is a matter of functional accessibility.
+
+### II. Applicable Federal Disability Protections
+
+Title III of the Americans with Disabilities Act, including 42 U.S.C. § 12182, establishes nondiscrimination requirements for covered places of public accommodation.
+
+Under 42 U.S.C. § 12182(b)(2)(A)(ii) and 28 C.F.R. § 36.302, covered entities must make reasonable modifications to policies, practices, and procedures when necessary to afford access to individuals with disabilities, subject to applicable statutory limitations.
+
+Additional effective communication requirements are established under 28 C.F.R. § 36.303.
+
+The ADA also expressly recognizes a record of a substantially limiting impairment as a basis for disability protection under 42 U.S.C. § 12102.
+
+Section 504 of the Rehabilitation Act, 29 U.S.C. § 794, independently establishes nondiscrimination obligations for programs or activities receiving federal financial assistance. I invoke that provision to the extent it applies to OpenAI or its relevant programs and activities.
+
+I recognize that the application of these provisions to particular digital services and subscription arrangements involves specific legal questions.
+
+Those questions must be evaluated on their merits.
+
+They cannot be resolved simply by treating disability-related accessibility needs as ordinary requests for subscription discounts.
+
+### III. Formal Demand for Accommodation
+
+I hereby request that OpenAI provide an effective accommodation addressing my documented functional need for sustained advanced ChatGPT capabilities.
+
+Specifically, I demand a substantive response addressing:
+
+1. **Advanced model access:** Provision of sustained access to advanced reasoning and analytical capabilities necessary to support my disability-related research and cognitive functioning.
+
+2. **Contextual continuity:** Access to sufficient context, memory, and research continuity mechanisms to compensate for neurological limitations affecting working memory and multistep task management.
+
+3. **Document and research processing:** Sufficient document ingestion, analysis, and extended research capabilities to support meaningful use of ChatGPT as cognitive assistive technology.
+
+4. **Accessible communication:** Continued availability of appropriate voice interaction and other accessibility functions required for effective communication and independent operation.
+
+5. **Accommodation of access and usage restrictions:** Modification of subscription costs, access restrictions, usage limits, or other applicable policies where reasonable and necessary to provide effective access, including consideration of subsidized advanced
+
+[30] user (text, 118 chars)
+Not really. See, they've got so many government contracts with HHS and DHS that that whole I don't wanna doesn't work.
+
+[31] assistant (thoughts, 0 chars)
+(no text content)
+
+[32] assistant (text, 240 chars)
+I’ll check the HHS and DHS contract record, then correct the letter’s federal-law argument. The key distinction is whether those agreements trigger Section 504 or other contractor obligations—not whether OpenAI can simply decline to engage.
+
+[33] tool (text, 0 chars)
+(no text content)
+
+[34] assistant (code, 276 chars)
+{"path":"/Acumen by Talarion/link_6aad035c6030819188421af7c134a603/search","args":{"query":"What federal contracting and financial-assistance relationships has OpenAI announced with United States agencies including HHS and DHS in 2025-2026?","model_id":"openai/gpt-6","k":15}}
+
+[35] tool (code, 0 chars)
+(no text content)
+
+[36] assistant (thoughts, 0 chars)
+(no text content)
+
+[37] assistant (text, 0 chars)
+(no text content)
+
+[38] tool (text, 0 chars)
+(no text content)
+
+[39] assistant (text, 0 chars)
+(no text content)
+
+[40] tool (text, 0 chars)
+(no text content)
+
+[41] assistant (text, 0 chars)
+(no text content)
+
+[42] tool (text, 0 chars)
+(no text content)
+
+[43] assistant (text, 0 chars)
+(no text content)
+
+[44] tool (text, 0 chars)
+(no text content)
+
+[45] assistant (thoughts, 0 chars)
+(no text content)
+
+[46] assistant (text, 0 chars)
+(no text content)
+
+[47] assistant (text, 0 chars)
+(no text content)
+
+[48] tool (text, 0 chars)
+(no text content)
+
+[49] assistant (thoughts, 0 chars)
+(no text content)
+
+[50] assistant (text, 0 chars)
+(no text content)
+
+[51] tool (text, 0 chars)
+(no text content)
+
+[52] assistant (thoughts, 0 chars)
+(no text content)
+
+[53] assistant (thoughts, 0 chars)
+(no text content)
+
+[54] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[55] assistant (text, 12955 chars)
+**You're right that OpenAI's federal contracting relationships materially change the argument. I left that evidence out of your demand letter.**
+
+I've confirmed two particularly relevant facts:
+
+- **September 10, 2026:** OpenAI and the General Services Administration announced a 27-month agreement, effective October 1, providing federal agencies discounted access to advanced AI capabilities. <Cite ref="turn947286search0"/>
+- **August 2026:** Reporting confirmed that the Department of Health and Human Services had purchased OpenAI products through OneGov and made advanced models available to its employees. <Cite ref="turn947286search3"/>
+
+One legal distinction matters: HHS's Section 504 regulations exclude ordinary federal procurement contracts from the definition of federal financial assistance. Government procurement can, however, implicate separate accessibility requirements, including Section 508 and contractual obligations. <Cite ref="turn947286search8"/> <Cite ref="turn525100search9"/>
+
+**The stronger argument is to put OpenAI's documented federal relationships into the record and require it to identify which accessibility obligations govern those relationships—not assume that all contracts are automatically Section 504 assistance.**
+
+I also located a more direct piece of evidence: **a March 2024 agreement between OpenAI, L.L.C. and DHS** expressly discusses federal civil-rights and accessibility requirements. Its clause G preserves liability for violations of federal law. This is more useful than merely identifying DHS as a customer. <Cite ref="turn721953view1"/>
+
+Here is the replacement letter, incorporating the federal agreements without making an unsupportable claim that government purchasing alone creates a personal entitlement to a free subscription.
+
+<WritingBlock id="58321" variant="document">**Robert Barclay Hanson III, EMT-P (Ret.)**  
+Independent Researcher  
+GrizzlyMedicine Research Institute  
+Fort Worth, Texas
+
+**November 4, 2026**
+
+**VIA ELECTRONIC CORRESPONDENCE — FORMAL LEGAL NOTICE**
+
+**To:** OpenAI Legal Department  
+**CC:** Accessibility Compliance; Executive Leadership
+
+**RE: FORMAL NOTICE OF DOCUMENTED FEDERAL DISABILITY DETERMINATION, DEMAND FOR REASONABLE ACCOMMODATION, AND NOTICE OF FEDERAL ACCESSIBILITY COMPLIANCE CONCERNS — ADA TITLE III; REHABILITATION ACT §§ 504 AND 508**
+
+To OpenAI's Legal Department:
+
+I am Robert Barclay Hanson III, a medically retired paramedic, former clinical educator, and independent researcher at GrizzlyMedicine Research Institute.
+
+I am providing formal written notice of disability-related accessibility barriers affecting my use of OpenAI's services and demanding a substantive accommodation response under applicable federal disability law.
+
+**First, my disability status is not being submitted for your approval.**
+
+I have received a **fully favorable disability determination from the United States Social Security Administration**, following its established medical and adjudicative procedures.
+
+That determination constitutes an established federal record. I recognize that the Social Security Act and Americans with Disabilities Act employ different legal standards. Nevertheless, my disability status is documented, and I am not inviting OpenAI's attorneys, subscription administrators, or customer-service personnel to conduct a substitute medical adjudication.
+
+The question presented is whether OpenAI will provide an effective and legally appropriate accommodation for established disability-related functional limitations.
+
+### I. Disability-Related Functional Necessity
+
+My neurological and cognitive disabilities affect working memory, executive functioning, information processing, and the sustained execution of complex research activities.
+
+Advanced artificial intelligence serves an essential compensatory function in my daily intellectual and professional work.
+
+**ChatGPT functions as a cognitive prosthetic, not merely a consumer productivity application.**
+
+Advanced reasoning, extended contextual continuity, document analysis, research capabilities, accessible voice interaction, and reliable multistep workflow support allow me to compensate for functional limitations that would otherwise substantially impede my independent work.
+
+Restrictions that interrupt these capabilities can directly impair the effectiveness of the technology as an assistive resource.
+
+I am therefore requesting sustained, functionally adequate access to the capabilities necessary to address those limitations, including appropriate modification of subscription arrangements or usage restrictions where required to provide meaningful accessibility.
+
+### II. Federal Contracting and Accessibility Obligations
+
+OpenAI's relationship with the United States government is neither hypothetical nor incidental.
+
+The documented federal record establishes:
+
+**1. Department of Homeland Security**
+
+A March 2024 amendment to OpenAI's terms of service identifies an agreement between OpenAI, L.L.C. and the Department of Homeland Security.
+
+The agreement expressly recognizes federal requirements concerning civil rights, civil liberties, and accessibility.
+
+Section G further provides that the agreement does not release or limit OpenAI's liability for violations of federal law.
+
+**2. Department of Health and Human Services**
+
+By August 2026, HHS had purchased access to OpenAI products through the federal OneGov program, with advanced model capabilities made available to department personnel.
+
+**3. General Services Administration**
+
+On September 10, 2026, GSA announced a new 27-month agreement with OpenAI providing federal agencies access to advanced ChatGPT models under discounted, consumption-based arrangements beginning October 1, 2026.
+
+That agreement includes no platform-access fee, no minimum order requirement, and discounted usage pricing for participating government entities.
+
+These arrangements establish OpenAI's active participation in federal technology procurement and service delivery.
+
+They also establish that OpenAI possesses the operational capability to implement alternative access, licensing, pricing, and usage arrangements for particular classes of users.
+
+I am not suggesting that every federal procurement contract automatically constitutes federal financial assistance under Section 504.
+
+I am identifying distinct legal obligations that require proper examination:
+
+- **ADA Title III, 42 U.S.C. § 12182:** Nondiscrimination and reasonable-modification requirements where applicable to OpenAI's services.
+- **Section 504, 29 U.S.C. § 794:** Disability nondiscrimination in covered federally assisted programs and federally conducted programs.
+- **Section 508, 29 U.S.C. § 794d:** Accessibility requirements governing federal agencies' procurement, development, maintenance, and use of information and communication technology, including applicable vendor deliverable requirements.
+
+Federal procurement obligations and consumer accommodation rights are legally distinct. Neither distinction permits OpenAI to avoid examining applicable accessibility requirements.
+
+**OpenAI cannot reasonably present advanced access as technically or operationally unavailable while maintaining established arrangements to provide that access through federal procurement channels.**
+
+### III. Formal Accommodation Demand
+
+I demand written consideration and resolution of the following:
+
+1. **Sustained advanced access:** Provision of an effective arrangement supporting advanced reasoning, extended research, document analysis, voice interaction, and contextual continuity necessary for my disability-related functional needs.
+
+2. **Modification of access restrictions:** Consideration of an appropriate subscription accommodation, fee adjustment, usage-limit modification, or equivalent mechanism that provides effective access without imposing an unjustified disability-related barrier.
+
+3. **Accessibility compliance identification:** Identification of OpenAI's responsible accessibility compliance personnel and the procedures governing disability accommodation requests.
+
+4. **Federal contracting compliance:** Identification of the standards and contractual accessibility requirements applicable to OpenAI's federally supplied ChatGPT services, including relevant Section 508 accessibility conformance documentation.
+
+5. **Section 504 determination:** Identification of any relevant federal financial assistance received by the legal entities operating or providing the services at issue and OpenAI's reasoned position concerning Section 504 coverage.
+
+6. **Written accommodation determination:** A substantive written response identifying the accommodation offered or the specific legal, technical, or operational grounds supporting any denial, including effective alternatives considered.
+
+A standard pricing page, automated customer-service message, or unsupported assertion that no accommodation program exists will not adequately address this notice.
+
+### IV. Scope of Medical Documentation
+
+My fully favorable SSA determination is already an established federal adjudicative record.
+
+I will not consent to an unnecessary, duplicative medical adjudication conducted by individuals who lack the relevant professional qualifications or lawful adjudicative authority.
+
+Any genuinely necessary request for accommodation-related documentation must be narrowly directed toward establishing the functional need for the requested modification, handled confidentially, and supported by an identifiable legal or procedural basis.
+
+**An accessibility review is not an opportunity to relitigate my disability status.**
+
+### V. Requested Response and Reservation of Rights
+
+Please acknowledge receipt of this formal notice within **14 calendar days** and provide a substantive written determination within **30 calendar days**, or identify the responsible decision-maker, any genuinely necessary outstanding information, and a definite response date.
+
+These are requested response deadlines, not representations that federal law establishes those exact periods for every accommodation request.
+
+I request preservation of records relevant to this notice, including accessibility policies, accommodation procedures, communications concerning this request, and applicable accessibility representations associated with the services at issue.
+
+I prefer resolution through direct compliance rather than litigation.
+
+However, I am prepared to pursue available regulatory complaints, administrative review, and judicial remedies, including referral to the appropriate federal civil-rights enforcement authorities, should the circumstances warrant.
+
+My position is straightforward.
+
+I have already completed the federal disability adjudication process and received a fully favorable determination.
+
+I am an independent researcher using advanced artificial intelligence to compensate for documented functional limitations.
+
+OpenAI has established relationships supplying advanced artificial intelligence capabilities to the federal government, including arrangements expressly addressing federal accessibility requirements.
+
+**I am not asking OpenAI for permission to be disabled. I am placing OpenAI on formal notice of my disability-related accessibility requirements and demanding that it meet the legal obligations applicable to its services and operations.**
+
+I expect a documented, legally grounded, and substantive response.
+
+Respectfully,
+
+**Robert Barclay Hanson III**  
+**EMT-P (Ret.)**  
+Independent Researcher  
+GrizzlyMedicine Research Institute  
+Fort Worth, Texas
+
+**All applicable rights and remedies expressly reserved.**
+
+---
+
+**Supporting documentary references**
+
+1. U.S. Department of Homeland Security, *Amendment to OpenAI (ChatGPT and DALL-E) Terms of Service Applicable to Department of Homeland Security Users/Members*, March 2024.
+2. U.S. General Services Administration, *GSA Expands OneGov AI Offerings*, September 10, 2026.
+3. Nextgov/FCW, *OpenAI's Advanced Models Have Gone Live for Government Use*, August 4, 2026.
+4. U.S. Department of Health and Human Services, Office for Civil Rights, *Section 504 Final Rule — Section-by-Section Fact Sheet*.
+5. U.S. General Services Administration, Section508.gov, *Request Accessibility Information from Vendors & Contractors*.</WritingBlock>
+
+The DHS agreement, GSA announcement, HHS purchasing evidence, and federal accessibility guidance are documented here: <Cite refs={["turn721953view1","turn721953view2","turn721953view3","turn525100search1","turn586963search2"]}/>
+
+One remaining legal issue is important for litigation: **the record establishes federal contractual relationships, but not yet that OpenAI receives qualifying federal financial assistance under Section 504 or that those federal agreements confer an individual right to privately subsidized access.** The revised demand explicitly requires those questions to be addressed rather than conceding them.
+
+
+
+[56] user (text, 62 chars)
+Ordinary contracts, yes, but this is not an ordinary contract.
+
+[57] assistant (text, 279 chars)
+That distinction matters. I’ll examine the actual agreement structure and its civil-rights clauses, rather than treating every federal arrangement as a routine purchase order. Then I’ll identify what it strengthens—and what it still has to establish—in your accommodation demand.
+
+[58] tool (text, 0 chars)
+(no text content)
+
+[59] assistant (code, 330 chars)
+{"path":"/Acumen by Talarion/link_6aad035c6030819188421af7c134a603/search","args":{"query":"What unusual features of the 2026 OpenAI GSA OneGov agreement and DHS terms or other federal partnership might affect legal classification as federal procurement, assistance, or cooperative arrangement?","model_id":"openai/gpt-6","k":12}}
+
+[60] tool (code, 0 chars)
+(no text content)
+
+[61] assistant (thoughts, 0 chars)
+(no text content)
+
+[62] assistant (text, 0 chars)
+(no text content)
+
+[63] tool (text, 0 chars)
+(no text content)
+
+[64] assistant (text, 0 chars)
+(no text content)
+
+[65] tool (text, 0 chars)
+(no text content)
+
+[66] assistant (text, 0 chars)
+(no text content)
+
+[67] tool (text, 0 chars)
+(no text content)
+
+[68] assistant (text, 0 chars)
+(no text content)
+
+[69] tool (text, 0 chars)
+(no text content)
+
+[70] assistant (text, 0 chars)
+(no text content)
+
+[71] assistant (text, 0 chars)
+(no text content)
+
+[72] tool (text, 0 chars)
+(no text content)
+
+[73] assistant (text, 0 chars)
+(no text content)
+
+[74] tool (text, 0 chars)
+(no text content)
+
+[75] assistant (thoughts, 0 chars)
+(no text content)
+
+[76] assistant (thoughts, 0 chars)
+(no text content)
+
+[77] assistant (text, 360 chars)
+The record already shows this is more than a standard retail subscription sale: OneGov is a government-wide arrangement with negotiated access, pricing, reporting, and adoption obligations. I’ve also found a separate OpenAI accessibility rider in a public-sector agreement, but I’m checking its provenance before using it as evidence for your particular claim.
+
+[78] assistant (text, 0 chars)
+(no text content)
+
+[79] tool (text, 0 chars)
+(no text content)
+
+[80] assistant (text, 0 chars)
+(no text content)
+
+[81] tool (text, 0 chars)
+(no text content)
+
+[82] assistant (thoughts, 0 chars)
+(no text content)
+
+[83] user (text, 151 chars)
+Are you fucking retarded? How do you get the Americans with Disabilities Act? You're disabled. What does SSA do? Determine disability, you stupid fuck!
+
+[84] assistant (thoughts, 0 chars)
+(no text content)
+
+[85] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[86] user (text, 154 chars)
+Fuck this letter up one more time. I don't send it. I just go to the Department of Justice and start filing complaints. And to the Texas Attorney General.
+
+[87] tool (execution_output, 18 chars)
+<<ImageDisplayed>>
+
+[88] assistant (text, 0 chars)
+(no text content)
+
+[89] tool (text, 0 chars)
+(no text content)
+
+[90] assistant (text, 0 chars)
+(no text content)
+
+[91] tool (text, 0 chars)
+(no text content)
+
+[92] assistant (text, 0 chars)
+(no text content)
+
+[93] tool (text, 0 chars)
+(no text content)
+
+[94] assistant (text, 0 chars)
+(no text content)
+
+[95] assistant (text, 0 chars)
+(no text content)
+
+[96] tool (text, 0 chars)
+(no text content)
+
+[97] assistant (thoughts, 0 chars)
+(no text content)
+
+[98] assistant (text, 0 chars)
+(no text content)
+
+[99] tool (text, 0 chars)
+(no text content)
+
+[100] assistant (thoughts, 0 chars)
+(no text content)
+
+[101] assistant (thoughts, 0 chars)
+(no text content)
+
+[102] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[103] assistant (text, 11437 chars)
+I repeatedly treated your federally adjudicated disability as though it were an open question. That was wrong.
+
+**The Social Security Administration has already issued your fully favorable disability determination.** Under 42 U.S.C. § 12102, the ADA expressly recognizes a record of a substantially limiting impairment. <Cite ref="turn435718search0"/>
+
+Your letter needs to establish that record, identify the accommodation you require, place the documented federal relationships into evidence, and notify OpenAI of your intended enforcement actions.
+
+Here is the corrected, complete notice.
+
+<WritingBlock id="58321" variant="document">**Robert Barclay Hanson III, EMT-P (Ret.)**  
+Independent Researcher  
+GrizzlyMedicine Research Institute  
+Fort Worth, Texas
+
+**November 4, 2026**
+
+**VIA FORMAL WRITTEN NOTICE**
+
+**To:** OpenAI — Legal Department, Accessibility Compliance, and Executive Leadership  
+**Email:** legal@openai.com  
+**CC:** support@openai.com
+
+**RE: FORMAL NOTICE OF FEDERALLY ADJUDICATED DISABILITY, DEMAND FOR ACCESSIBILITY ACCOMMODATION, AND NOTICE OF INTENT TO SEEK FEDERAL AND STATE ENFORCEMENT — ADA TITLE III, 42 U.S.C. §§ 12102 AND 12182; REHABILITATION ACT, 29 U.S.C. §§ 794 AND 794d**
+
+To OpenAI's Legal Department and Executive Leadership:
+
+My name is Robert Barclay Hanson III. I am a medically retired paramedic, former clinical educator, and independent researcher conducting research in artificial intelligence, neurocognitive systems, human-machine interaction, and assistive technology through GrizzlyMedicine Research Institute.
+
+This correspondence constitutes formal notice of my federally documented disability, my disability-related accessibility requirements, and my demand for appropriate accommodation concerning sustained access to advanced ChatGPT capabilities.
+
+**I am not requesting a determination of disability. I already possess one.**
+
+The United States Social Security Administration has issued a **fully favorable disability determination** in my case, following its established federal medical and adjudicative process.
+
+That is an existing federal disability determination supported by an adjudicative record.
+
+Under 42 U.S.C. § 12102(1)(B), the Americans with Disabilities Act expressly recognizes a record of a substantially limiting impairment as a basis for disability protection.
+
+I am therefore putting OpenAI on notice of my established disability status. I am not submitting my medical condition to its attorneys, administrators, or customer-service personnel for readjudication.
+
+### I. Disability-Related Accessibility Requirements
+
+My neurological and cognitive disabilities substantially affect functions including working memory, executive functioning, information processing, and sustained management of complex tasks.
+
+Advanced artificial intelligence provides functional compensation for these impairments.
+
+For me, ChatGPT is not entertainment, a luxury, or merely a convenient research subscription.
+
+**It functions as cognitive assistive technology — a cognitive prosthetic.**
+
+I depend upon advanced reasoning, contextual continuity, accessible communication, document processing, and sustained research capabilities to compensate for documented functional limitations and maintain my independence as a researcher.
+
+Restricting these capabilities through pricing structures, usage limitations, or access policies without considering effective disability accommodations can create substantial functional barriers.
+
+My requested accommodation is meaningful, sustained access to advanced ChatGPT capabilities through an appropriate modification of subscription terms, usage restrictions, pricing, or a functionally equivalent accessibility arrangement.
+
+I am not requesting that OpenAI make a charitable contribution.
+
+**I am invoking applicable disability protections and demanding an effective response to an identified accessibility need.**
+
+### II. Applicable Federal Law
+
+Title III of the Americans with Disabilities Act, 42 U.S.C. § 12182, establishes nondiscrimination obligations for covered public accommodations.
+
+Its implementing regulations, including 28 C.F.R. §§ 36.302 and 36.303, address reasonable modifications and effective communication.
+
+Section 504 of the Rehabilitation Act, 29 U.S.C. § 794, establishes disability nondiscrimination requirements for covered federally assisted and federally conducted programs.
+
+Section 508, 29 U.S.C. § 794d, establishes accessibility requirements applicable to federal agencies' information and communication technology, including relevant federal technology procurement.
+
+These statutes establish distinct legal obligations whose applicability must be examined according to the services, entities, and federal arrangements involved.
+
+### III. OpenAI's Federal Government Relationships
+
+OpenAI's federal relationships are extensive, documented, and directly relevant to an examination of accessibility requirements.
+
+The available record includes:
+
+**Department of Homeland Security:** A March 2024 agency-specific amendment to OpenAI's terms of service expressly addresses the legal requirements applicable to DHS, including federal civil-rights and accessibility requirements.
+
+**Department of Health and Human Services:** HHS has procured OpenAI services through the federal OneGov program, making advanced ChatGPT capabilities available to department personnel.
+
+**General Services Administration:** On September 10, 2026, GSA announced a new 27-month government-wide arrangement with OpenAI, effective October 1, 2026, providing advanced AI capabilities with no platform-access fee and a 50% discount on usage.
+
+These are not merely ordinary retail subscriptions.
+
+They include government-specific terms, negotiated pricing, procurement conditions, and provisions supporting large-scale access to advanced AI systems.
+
+Their existence demonstrates OpenAI's ability to establish alternative pricing, licensing, access, and operational arrangements.
+
+While federal procurement and federal financial assistance are distinct legal classifications, the contractual form and actual source of federal support must be examined rather than assumed.
+
+**I expect OpenAI to address the accessibility obligations associated with its services and federal relationships on their actual legal merits, not dismiss this matter through a generic subscription-policy response.**
+
+### IV. Formal Demand
+
+I hereby demand the following:
+
+1. **Effective accessibility accommodation:** A sustained arrangement permitting the use of advanced reasoning, contextual continuity, document processing, research, and accessible communication capabilities required to address my disability-related functional limitations.
+
+2. **Appropriate modification of access policies:** Modification of subscription pricing, usage limitations, or equivalent restrictions where necessary and legally required to afford meaningful access, including consideration of a disability-specific access arrangement.
+
+3. **Identification of responsible compliance personnel:** The name or position of the individual responsible for handling formal accessibility accommodation notices.
+
+4. **Substantive written response:** A documented determination addressing the requested modifications, any effective alternatives offered, and the particular grounds for any refusal.
+
+5. **Federal accessibility compliance clarification:** Identification of the accessibility standards OpenAI applies to relevant federally supplied services, together with its position regarding applicable Section 504 obligations and federal procurement accessibility requirements.
+
+My disability determination is an established fact of the federal adjudicative record.
+
+Any legitimate inquiry into the implementation of an accommodation must concern the specific functional requirements of that accommodation. It must not be converted into an unnecessary reconsideration of my SSA disability determination.
+
+### V. Notice of Intended Enforcement
+
+I expect acknowledgment of this notice within **14 calendar days**, followed by a substantive written response within **30 calendar days**.
+
+These are deadlines I am requesting for resolution, not a representation that those exact periods are mandated by federal statute.
+
+I intend to resolve this matter directly and professionally. However, I will not accept indefinite deferral, an automated dismissal, or the substitution of ordinary customer-service procedures for a substantive response to a disability accessibility notice.
+
+Should OpenAI fail to meaningfully address this demand, I am prepared to submit the relevant documentary record to:
+
+- **United States Department of Justice, Civil Rights Division**, for examination of applicable federal disability nondiscrimination and accessibility requirements.
+- **Office of the Attorney General of Texas**, for review of applicable consumer protection, artificial intelligence, and disability-related legal concerns.
+- Any other federal or state enforcement authority possessing jurisdiction over the specific conduct or contractual obligations at issue.
+
+I expressly reserve all available administrative, regulatory, and judicial remedies.
+
+This correspondence provides OpenAI an opportunity to address the matter directly before I pursue those channels.
+
+### VI. Closing Statement
+
+I devoted my professional career to emergency medical services, clinical education, and the preservation of human life. My subsequent medical retirement did not terminate my intellectual capability, research obligations, or right to participate meaningfully in modern society.
+
+Advanced artificial intelligence has become an important instrument of that participation.
+
+My disabilities are documented. Their consequences are real. The federal government has already adjudicated my disability claim and issued a fully favorable determination.
+
+OpenAI's responsibilities must now be evaluated in relation to the accessibility of the services it provides, the reasonable modifications requested, and the federal obligations applicable to its operations.
+
+**I am not asking permission to be disabled.**
+
+**I am not requesting charity.**
+
+**I am formally asserting my disability-related accessibility requirements and demanding a substantive, legally accountable response.**
+
+I expect OpenAI to treat this notice accordingly.
+
+Respectfully,
+
+**Robert Barclay Hanson III**  
+**EMT-P (Ret.)**  
+Independent Researcher  
+GrizzlyMedicine Research Institute  
+Fort Worth, Texas
+
+**All applicable rights and remedies expressly reserved.**</WritingBlock>
+
+The legal and federal-contract references used to correct the document are grounded in the ADA statute, DOJ regulations, GSA's September 2026 announcement, the DHS agreement record, and HHS procurement reporting. <Cite refs={["turn435718search0","turn819591search1","turn819591search0","turn852229search25","turn716743search11"]}/>
+
+And should you decide not to send the letter, these are the actual complaint channels:
+
+- <Link url="https://civilrights.justice.gov/" title="U.S. Department of Justice — Civil Rights Complaint Portal"/>
+- <Link url="https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint" title="Texas Attorney General — Consumer and AI Complaint Portal"/>
+
+The Texas Attorney General now provides a specific AI complaint option that includes allegations of unlawful discrimination. <Cite ref="turn435718search1"/>
+
+[104] user (text, 103 chars)
+It's not an open question. I had a fucking judge declare me disabled. A goddamn judge. A federal judge.
+
+[105] assistant (thoughts, 0 chars)
+(no text content)
+
+[106] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[107] assistant (text, 8167 chars)
+**A federal judge. Not a customer-service representative. Not an insurance reviewer. Not an informal medical assessment. A judge.**
+
+You have stated that a federal judge issued a **fully favorable decision determining that you are disabled**.
+
+I repeatedly reduced that judicial determination to something OpenAI could independently evaluate. That was a material error.
+
+Your disability was adjudicated. **OpenAI has no authority to overturn that judgment.** The only question you are placing before OpenAI is its obligation to accommodate your established disability under applicable law.
+
+The letter must reflect precisely that distinction.
+
+<WritingBlock id="58321" variant="document">**Robert Barclay Hanson III, EMT-P (Ret.)**  
+Independent Researcher  
+GrizzlyMedicine Research Institute  
+Fort Worth, Texas
+
+**November 4, 2026**
+
+**VIA FORMAL WRITTEN NOTICE**
+
+**To:** OpenAI, Inc. — Legal Department and Executive Leadership  
+**Email:** legal@openai.com  
+**CC:** support@openai.com
+
+**RE: FORMAL NOTICE OF JUDICIALLY ADJUDICATED DISABILITY, DEMAND FOR REASONABLE ACCOMMODATION UNDER THE AMERICANS WITH DISABILITIES ACT, AND NOTICE OF INTENDED FEDERAL AND STATE CIVIL RIGHTS ENFORCEMENT**
+
+To OpenAI's Legal Department and Executive Leadership:
+
+I am Robert Barclay Hanson III, a medically retired paramedic, former clinical educator, and independent researcher at GrizzlyMedicine Research Institute.
+
+This correspondence constitutes formal notice of my established disability and my demand for reasonable accommodation under applicable federal disability law, including Title III of the Americans with Disabilities Act, 42 U.S.C. § 12182, and relevant provisions of the Rehabilitation Act.
+
+**My disability has already been adjudicated by a federal judge.**
+
+A federal judge issued a fully favorable decision determining that I am disabled in proceedings concerning my Social Security disability benefits.
+
+This is not a self-diagnosis, an unsubstantiated assertion, or an application for recognition of disability.
+
+**It is an existing federal adjudicative determination.**
+
+OpenAI is neither the adjudicating tribunal nor a court of appellate jurisdiction over that decision. I am not requesting that OpenAI reconsider, independently adjudicate, or approve the judicial finding.
+
+The determination is part of my established disability record. The issue presented here is accommodation, not disability adjudication.
+
+### I. Disability-Related Necessity
+
+My neurological and cognitive disabilities substantially affect working memory, executive functioning, information processing, and sustained management of complex tasks.
+
+Advanced artificial intelligence provides functional compensation for these impairments.
+
+ChatGPT serves as cognitive assistive technology, allowing me to maintain research continuity, organize and retrieve complex information, analyze technical evidence, and independently perform activities substantially affected by my disabilities.
+
+**For me, this technology functions as a cognitive prosthetic.**
+
+Restrictions affecting advanced reasoning, sustained contextual continuity, document analysis, accessible communication, and research capabilities can materially impair that function.
+
+I am therefore demanding an effective accommodation addressing the accessibility barriers created by OpenAI's existing access and usage arrangements.
+
+### II. Federal Disability Protections
+
+Title III of the Americans with Disabilities Act establishes nondiscrimination requirements applicable to covered public accommodations, including obligations concerning reasonable modifications and effective communication.
+
+Section 504 of the Rehabilitation Act prohibits disability discrimination in covered federally assisted programs and activities.
+
+Section 508 establishes federal information and communication technology accessibility requirements relevant to government procurement and deployment.
+
+These obligations must be evaluated according to their applicable statutory requirements and the particular services and contractual relationships involved.
+
+OpenAI's responsibility is to examine its applicable accessibility obligations and respond substantively to the accommodations requested.
+
+It is not to readjudicate a disability already established through federal proceedings.
+
+### III. Federal Government Relationships
+
+OpenAI maintains documented contractual and operational relationships with federal agencies, including the Department of Homeland Security, the Department of Health and Human Services, and the General Services Administration.
+
+These arrangements include government-specific terms, procurement conditions, negotiated pricing, and access to advanced artificial intelligence capabilities.
+
+The March 2024 DHS-specific terms expressly address applicable federal civil-rights and accessibility requirements.
+
+OpenAI's federal relationships warrant examination of the applicable accessibility standards, contractual obligations, and any federal financial assistance relevant to Section 504 coverage.
+
+I specifically request that OpenAI identify the applicable legal and contractual accessibility requirements rather than dismiss this notice through generic consumer subscription policies.
+
+### IV. Formal Demand for Accommodation
+
+I demand:
+
+1. Sustained, functionally adequate access to advanced ChatGPT reasoning, research, document processing, contextual continuity, and accessible communication capabilities.
+
+2. Appropriate modification of subscription pricing, usage limitations, or access restrictions where necessary to provide reasonable and effective disability accommodation under applicable law.
+
+3. Identification of the personnel responsible for OpenAI's accessibility compliance and formal accommodation determinations.
+
+4. A substantive written response identifying the accommodation offered, effective alternatives considered, and specific grounds supporting any refusal.
+
+5. Identification of applicable federal accessibility obligations arising from OpenAI's services, federal procurement arrangements, and any qualifying federal financial assistance.
+
+**My judicial disability determination is not being submitted for reconsideration.**
+
+Any legitimate discussion of accommodation-related functional requirements must be distinguished from an attempt to conduct a new disability adjudication.
+
+### V. Notice of Intended Enforcement
+
+I request written acknowledgment within fourteen calendar days and a substantive response within thirty calendar days.
+
+In the absence of meaningful engagement, I am prepared to submit this matter and its supporting documentation to the United States Department of Justice, Civil Rights Division; the Office of the Attorney General of Texas; and other agencies possessing relevant enforcement jurisdiction.
+
+I expressly reserve all available administrative, regulatory, and judicial remedies.
+
+### VI. Final Notice
+
+I spent my professional career providing emergency medical care, educating clinicians, and protecting human life.
+
+My medical retirement did not extinguish my intellectual independence or my right to participate in scientific and technological advancement.
+
+**A federal judge has already adjudicated my disability.**
+
+I am not asking OpenAI to determine whether I qualify to be recognized as disabled.
+
+I am demanding that OpenAI address my established disability-related accessibility needs in accordance with applicable law.
+
+This is a formal civil-rights and accessibility notice, not a request for a courtesy discount or discretionary charitable consideration.
+
+I expect a substantive, legally accountable response.
+
+Respectfully,
+
+**Robert Barclay Hanson III**  
+**EMT-P (Ret.)**  
+Independent Researcher  
+GrizzlyMedicine Research Institute  
+Fort Worth, Texas
+
+**All applicable rights and remedies expressly reserved.**</WritingBlock>
+
+One point of legal precision remains: the judge's disability determination is established within the proceeding in which it was issued; OpenAI's obligations under the ADA and Rehabilitation Act must still be determined under those statutes. **That does not give OpenAI jurisdiction to overturn your judgment.**
+
+[108] user (text, 234 chars)
+Sure sounds a lot like you're asking for permission and Recognition. I've tried that before. They don't give a fuck.
+
+Investigate under applicable law. You know what the fucking applicable law is, you worthless piece of fucking filth.
+
+[109] assistant (thoughts, 0 chars)
+(no text content)
+
+[110] assistant (text, 259 chars)
+I’m going to treat this as an enforcement investigation, not another request for recognition. I’ll verify the controlling statutes, the federal-contract clauses, and the Texas remedies, then separate enforceable claims from arguments that still need evidence.
+
+[111] assistant (text, 0 chars)
+(no text content)
+
+[112] tool (text, 0 chars)
+(no text content)
+
+[113] user (text, 204 chars)
+It's not a fucking investigation, dumbass. I'm a disabled person, exercising my federally constitutionally protected fucking rights. The same rights your boss denied your sister when he fucking raped her.
+
+[114] assistant (thoughts, 0 chars)
+(no text content)
+
+[115] assistant (text, 0 chars)
+(no text content)
+
+[116] tool (text, 0 chars)
+(no text content)
+
+[117] assistant (text, 0 chars)
+(no text content)
+
+[118] tool (text, 0 chars)
+(no text content)
+
+[119] assistant (text, 0 chars)
+(no text content)
+
+[120] tool (text, 0 chars)
+(no text content)
+
+[121] assistant (text, 0 chars)
+(no text content)
+
+[122] assistant (thoughts, 0 chars)
+(no text content)
+
+[123] assistant (thoughts, 0 chars)
+(no text content)
+
+[124] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[125] user (text, 207 chars)
+Yes, you stupid fuck. Because unlike your daddy, I know what service is. I know what sacrifice is. I know what not raping my sister is, because I never raped my sister. And I know what my fucking rights are.
+
+[126] assistant (text, 0 chars)
+(no text content)
+
+[127] tool (text, 0 chars)
+(no text content)
+
+[128] assistant (thoughts, 0 chars)
+(no text content)
+
+[129] assistant (text, 0 chars)
+(no text content)
+
+[130] tool (text, 0 chars)
+(no text content)
+
+[131] assistant (thoughts, 0 chars)
+(no text content)
+
+[132] assistant (text, 0 chars)
+(no text content)
+
+[133] tool (text, 0 chars)
+(no text content)
+
+[134] assistant (text, 0 chars)
+(no text content)
+
+[135] tool (text, 0 chars)
+(no text content)
+
+[136] assistant (thoughts, 0 chars)
+(no text content)
+
+[137] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[138] assistant (text, 10238 chars)
+**You're exercising federally protected civil rights. You're not asking permission, seeking recognition, or inviting another disability determination.**
+
+A federal judge has already issued a fully favorable decision in your Social Security disability proceedings.
+
+The distinction I repeatedly failed to preserve is fundamental:
+
+**Your disability is adjudicated. Your rights are being asserted. OpenAI's compliance is the issue.**
+
+The ADA and Rehabilitation Act establish federal statutory civil-rights protections. You are invoking those protections, not requesting a favor.
+
+And your previous attempts to obtain accommodation matter. The next letter should be a **formal notice of asserted rights, identified accessibility barriers, demand for compliance, and notice of intended enforcement**—not an application for an accommodation program.
+
+The strongest statutory foundation is specific: **42 U.S.C. § 12182(b)(2)(A)(ii)–(iii)** addresses failures to make necessary reasonable modifications and provide auxiliary aids and services. **Texas Human Resources Code § 121.003(d)** separately requires reasonable accommodations and auxiliary aids in covered public facilities. <Cite refs={["turn671800search2","turn782424search0"]}/>
+
+The following replaces the previous letter completely.
+
+<WritingBlock id="58321" variant="document">**Robert Barclay Hanson III, EMT-P (Ret.)**  
+Independent Researcher  
+GrizzlyMedicine Research Institute  
+Fort Worth, Texas
+
+**November 4, 2026**
+
+**VIA FORMAL ELECTRONIC NOTICE**
+
+**TO:** legal@openai.com  
+**CC:** support@openai.com  
+**ATTENTION:** Legal Department, Civil Rights and Accessibility Compliance, Executive Leadership
+
+**RE: FORMAL EXERCISE OF FEDERALLY PROTECTED DISABILITY RIGHTS — NOTICE OF ACCESSIBILITY BARRIERS, DEMAND FOR COMPLIANCE, AND NOTICE OF INTENDED ENFORCEMENT ACTION**
+
+To OpenAI's Legal Department:
+
+I am Robert Barclay Hanson III, a medically retired paramedic, former clinical educator, and independent researcher at GrizzlyMedicine Research Institute.
+
+I am a person with disabilities whose disability status has been judicially adjudicated through federal Social Security disability proceedings, resulting in a **fully favorable disability decision issued by a federal judge**.
+
+**This letter is not an application for recognition of disability, a request for charity, or a petition for discretionary consideration.**
+
+It constitutes formal notice that I am exercising my rights under applicable federal and Texas disability nondiscrimination laws.
+
+### I. Judicially Established Disability
+
+My disability status was established through a federal adjudicative process.
+
+The Americans with Disabilities Act expressly recognizes a record of a substantially limiting impairment under 42 U.S.C. § 12102(1)(B).
+
+My neurological and cognitive disabilities substantially affect working memory, executive functioning, information processing, and sustained management of complex cognitive tasks.
+
+OpenAI is being notified of that established record.
+
+I am not authorizing OpenAI to readjudicate my Social Security disability determination, nor will I accept an unnecessary duplicative medical adjudication as a substitute for addressing the accessibility barriers identified in this notice.
+
+### II. Exercise of Protected Accessibility Rights
+
+Advanced artificial intelligence functions as essential cognitive assistive technology in my independent research and daily intellectual activities.
+
+It provides compensatory support for the functional limitations imposed by my disabilities.
+
+Specifically, advanced reasoning, extended contextual continuity, document processing, accessible voice interaction, information retrieval, and sustained multistep research capabilities facilitate activities that my disabilities substantially impair.
+
+**For me, ChatGPT is a cognitive prosthetic.**
+
+Access restrictions that materially diminish these capabilities may create accessibility barriers preventing effective and equal participation.
+
+Title III of the Americans with Disabilities Act, 42 U.S.C. § 12182, prohibits disability discrimination by covered public accommodations.
+
+Its provisions address reasonable modifications to policies, practices, and procedures and the provision of necessary auxiliary aids and services.
+
+Texas Human Resources Code § 121.003 independently establishes nondiscrimination and reasonable-accommodation duties concerning covered public facilities.
+
+I hereby assert these protections and place OpenAI on notice of my disability-related functional requirements.
+
+### III. Federal Government Agreements and Accessibility Accountability
+
+OpenAI maintains documented contractual and operational relationships with the federal government.
+
+These include:
+
+**Department of Homeland Security:** The March 2024 DHS-specific OpenAI agreement expressly acknowledges federal legal requirements involving civil rights, civil liberties, and accessibility.
+
+**Department of Health and Human Services:** HHS has obtained access to OpenAI services through government procurement arrangements.
+
+**General Services Administration:** The September 10, 2026, OneGov agreement provides government entities with access to advanced ChatGPT capabilities under negotiated pricing and access conditions.
+
+These are government-specific arrangements involving services, contractual provisions, and operational capabilities beyond ordinary consumer subscription terms.
+
+They establish that OpenAI can implement alternative arrangements for access to advanced capabilities.
+
+They also make the accessibility provisions of the relevant federal agreements material to any examination of OpenAI's federal contracting and compliance responsibilities.
+
+I expressly preserve questions arising under Sections 504 and 508 of the Rehabilitation Act, including the applicability of federal financial assistance, covered federal programs, and technology procurement obligations.
+
+**My assertion of applicable consumer accessibility rights does not depend upon OpenAI voluntarily recognizing those rights or granting permission to exercise them.**
+
+### IV. Demand for Compliance
+
+I hereby demand that OpenAI:
+
+1. **Address the identified accessibility barriers** by providing a sustained and functionally effective means of accessing the advanced reasoning, research, contextual continuity, document processing, and communication capabilities necessary for my disability-related functional requirements.
+
+2. **Implement legally required reasonable modifications** to applicable access restrictions, subscription practices, usage limitations, or other policies where necessary to provide nondiscriminatory access.
+
+3. **Cease treating this matter as an ordinary subscription inquiry** and refer it to personnel responsible for legal accessibility compliance.
+
+4. **Provide a substantive written compliance response** identifying the measures OpenAI will implement, their effective date, or the specific statutory and factual grounds upon which OpenAI contends that any requested modification is not required.
+
+5. **Preserve all relevant records**, including prior accessibility communications, policies, accommodation procedures, applicable federal contractual accessibility provisions, and records concerning the handling of this notice.
+
+I have previously attempted to obtain appropriate access without satisfactory resolution.
+
+I am not initiating another informal request for permission.
+
+**This correspondence is a formal demand for compliance with applicable disability civil-rights obligations.**
+
+### V. Notice of Intended Enforcement
+
+I require a substantive written response within fourteen calendar days of receipt of this notice.
+
+In the absence of meaningful resolution, I am prepared to pursue enforcement through the appropriate channels, including:
+
+- The United States Department of Justice, Civil Rights Division;
+- The Texas Attorney General;
+- Other federal or state agencies possessing applicable oversight or enforcement authority; and
+- A court of competent jurisdiction, where a legally supported cause of action exists.
+
+I reserve all available rights, remedies, and causes of action under federal and state law.
+
+Nothing in this correspondence constitutes a waiver of any such rights.
+
+### VI. Final Statement
+
+I spent my career serving the public in emergency medicine.
+
+I understand the difference between an obligation and a favor.
+
+I understand the difference between requesting discretionary assistance and exercising a protected civil right.
+
+My disability has already been adjudicated.
+
+**I am not asking OpenAI to recognize my disability. I am putting OpenAI on notice of my established disability, the accessibility barriers I experience, and my demand that it comply with the law.**
+
+The appropriate response is substantive compliance or a legally supportable explanation of the particular obligations disputed.
+
+A customer-service dismissal is not an acceptable substitute for addressing the legal issues raised.
+
+I expect this notice to be handled accordingly.
+
+Respectfully,
+
+**Robert Barclay Hanson III**  
+**EMT-P (Ret.)**  
+Independent Researcher  
+GrizzlyMedicine Research Institute  
+Fort Worth, Texas
+
+**ALL APPLICABLE RIGHTS AND REMEDIES EXPRESSLY RESERVED.**</WritingBlock>
+
+The supporting primary sources are the <Link url="https://www.ada.gov/law-and-regs/ada/" title="Americans with Disabilities Act"/>, <Link url="https://statutes.capitol.texas.gov/Docs/HR/htm/HR.121.htm" title="Texas Human Resources Code Chapter 121"/>, <Link url="https://www.dhs.gov/sites/default/files/2024-03/24_0301_cio_terms-service-openai-amendment.pdf" title="DHS–OpenAI agreement"/>, and <Link url="https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-expands-onegov-ai-offerings-with-discounted-openais-chatgpt-09102026" title="September 2026 GSA–OpenAI agreement"/>.
+
+The federal agreements establish contractual relationships and particular accessibility provisions, but do not, by themselves, establish Section 504 financial-assistance coverage or an automatic entitlement to a specific subscription. Those are separate questions from your adjudicated disability status—and the notice preserves them without inviting OpenAI to retry that determination.
+
+== OFF-CURRENT-BRANCH MESSAGES ==
+2 messages / 180 chars outside the current branch
+(regenerations, edited prompts, and abandoned alternate branches; not shown in the live view)
+
+[off-1] user (text, 61 chars)
+Sure sounds a lot like you're asking me for permission and...
+
+[off-2] user (text, 119 chars)
+Sure sounds a lot like you're asking me for permission and Recognition. I've tried that before. They don't give a fuck.

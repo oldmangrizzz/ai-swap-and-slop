@@ -1,0 +1,342 @@
+# title: Draft OpenHands Research Prompt
+# url: https://chatgpt.com/c/6ac8ba83-8b80-83ea-8280-f342795ac2db
+# captured: 2026-11-07T07:03:46-0600
+# method: safari-authenticated-api (chatgpt.com/backend-api/conversation, canonical thread)
+# conv_id: 6ac8ba83-8b80-83ea-8280-f342795ac2db
+# group: sidebar
+# messages: 32 total = 4 user + 22 assistant + 6 tool
+# create_time: 1791539864.085014  update_time: 1791540279.352028  default_model: gpt-6.1-sol-wm
+# complete: true
+# note: text is the canonical message content from the account API, not an AX scroll capture;
+#       AX tree capture is lossy under transcript virtualization (verified 2026-11-07).
+
+[1] user (text, 1923 chars)
+Morning, morning, morning. I was wondering if you could please draft me a deep research prompt. What I'm wanting you to look into is OpenHands, as in OpenHands.dev. Now, here's the thing. I don't want you to do this as an analysis of the platform. I don't want you to do this as a marketing thing or a software thing. I want you to learn about the platform. I want you to comprehend it. I want you to understand it completely and implicitly, like you're going to have to teach people about it, because that's what you're going to do afterwards. I don't want just a report. I want you to create a space around it, because I want to see what you can do with this. You are teaching somebody about something from a completely different realm of existence entirely. Think about this, man. This is the chance to really bridge some gaps. I'm not one of you people. I'm not a developer. I'm never going to understand your technology or languages. I just understand the tech. I don't understand your shit, and I don't pretend to. So think about this. You're getting to teach somebody a completely blank slate how to work with the platform, or how to re-engineer the platform, since we're self-hosting it on a VM, for my needs. That does not mean appropriate my technology or anything else. What I would like for you to do is I actually want you to go through all of your plugins that you have. Pick a few out. You seem to be really good at stacking them. So pick a few out. We're going to lead it with the deep research plug, though, and then we're going to have you research it and teach me about OpenHands. But you can't use my words. You can't use my organization or my industry. Conversely, you're not allowed to hide behind yours. You have to actually meet the needs of the individuals that you're teaching and training to. It's what we call the teach back method. You become an expert so that you can teach it back to anybody.
+
+[2] assistant (thoughts, 0 chars)
+(no text content)
+
+[3] assistant (text, 284 chars)
+Morning, Grizz. I’ll build the prompt around learning OpenHands well enough to teach it, then creating a hands-on learning space for your self-hosted setup. I’ll check the available research and teaching plugins and OpenHands’ own sources so the prompt starts from a sound foundation.
+
+[4] assistant (text, 0 chars)
+(no text content)
+
+[5] tool (text, 0 chars)
+(no text content)
+
+[6] assistant (text, 0 chars)
+(no text content)
+
+[7] tool (text, 0 chars)
+(no text content)
+
+[8] assistant (thoughts, 0 chars)
+(no text content)
+
+[9] tool (text, 0 chars)
+(no text content)
+
+[10] assistant (thoughts, 0 chars)
+(no text content)
+
+[11] assistant (text, 512 chars)
+The current OpenHands docs distinguish several components and mark some older interfaces as deprecated. The prompt needs to establish which version is on your VM before teaching controls or proposing changes.
+
+I’d use Deep Research to lead, with Exa for source discovery, Context7 for documentation checks, Work Visualize for interactive explanations, and Pages for the learning space. The teaching test will be whether you can explain what will happen, predict the result, and recover when something goes wrong.
+
+[12] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[13] user (text, 232 chars)
+Hey, no. You're actually going to create a learning environment here. We're going to switch over to the site's Bing here in a second, and I'm going to run your prompt through there so that I have an interactive learning environment.
+
+[14] assistant (thoughts, 0 chars)
+(no text content)
+
+[15] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[16] user (text, 140 chars)
+Hey, for the prompt, yes, you're creating the Markdown file. Tell the prompt, hey, this is what you're making with the learning environment.
+
+[17] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[18] assistant (text, 12683 chars)
+Morning, Grizz. **The target is understanding you can use, question, and reshape.** The prompt needs to make the researcher responsible for teaching—not leave you responsible for translating the research.
+
+I’d stack **Deep Research → Exa → Context7 → Work Visualize → Pages**, with each serving a specific purpose. I also built in a version check: OpenHands’ current documentation distinguishes several components and identifies older interfaces as deprecated, so teaching from the wrong generation would create confusion immediately. genui{"citation":{"ref":"turn2view0"}}
+
+Here’s the prompt I’d use:
+
+---
+
+**Research OpenHands deeply enough to teach its operation and adaptation to a technically capable person who has no software-development background. Then build a learning space that makes that understanding accessible through explanation, exploration, and practice.**
+
+Start at **https://openhands.dev** and follow the official documentation, source repositories, release history, and relevant maintainer discussions.
+
+The learner intends to self-host OpenHands on a virtual machine and may want to modify it for particular needs. The exact installed version, machine specifications, and intended modifications are not yet established.
+
+Your assignment has two connected responsibilities: develop a thoroughly grounded understanding of OpenHands, and translate that understanding into an environment where someone outside software development can learn to operate and adapt it.
+
+A report may support this work. It does not complete it.
+
+**1. Establish the teaching relationship**
+
+Treat the learner as an adult with strong technical reasoning and unfamiliarity with programming conventions. Do not mistake unfamiliar vocabulary for limited understanding.
+
+Develop your own explanations. Do not borrow the learner’s wording, organization, professional background, personal projects, or industry as a shortcut to relatability. Do not assume that an analogy drawn from their background will explain the system.
+
+Likewise, do not make software-industry vocabulary the price of admission. Introduce technical terms when they become useful, explain them in ordinary language, and connect them to something the learner can observe or control.
+
+Preserve the actual mechanism when simplifying. If an analogy helps, explain where it stops matching reality.
+
+Distinguish these learning outcomes:
+
+- Understanding what the system does.
+- Operating it and evaluating its results.
+- Configuring its behavior and connecting other tools.
+- Directing changes to its underlying implementation.
+- Personally writing software.
+
+Do not require the last outcome as a prerequisite for the others.
+
+**2. Use a purposeful research and teaching stack**
+
+Lead with Deep Research to coordinate the investigation and synthesize the evidence.
+
+Use these supporting capabilities when available:
+
+| Capability | Responsibility |
+|---|---|
+| Exa | Discover relevant official sources, maintainer explanations, and documented operational problems. |
+| Context7 | Retrieve applicable documentation and examples, checking their version against the selected OpenHands release. |
+| Work Visualize | Build interactive explanations that let the learner inspect relationships and predict consequences. |
+| Pages | Organize the findings, lessons, exercises, references, and adaptation decisions into a navigable learning space. |
+
+Inspect actual availability before claiming to use a capability. If a capability cannot run in the current environment, explain the limitation briefly and preserve a concrete handoff for that part of the work. Continue everything that remains possible.
+
+Do not add plugins merely to increase the size of the stack.
+
+**3. Establish which OpenHands you are researching**
+
+Before producing operating instructions, identify the current product and repository structure. Separate active components, older architectures, hosted offerings, and available self-hosted arrangements.
+
+Record the research date and the release, tag, or commit supporting each implementation-specific explanation. Identify the documentation that matches it.
+
+Do not combine instructions from different generations into a seemingly coherent installation guide.
+
+Distinguish:
+
+- What the current public project supports.
+- What belongs to a hosted or separately licensed offering.
+- What historical documentation describes.
+- What requires an additional component or integration.
+- What would require custom development.
+
+If the learner’s VM installation cannot yet be inspected, build the general foundation and clearly mark instructions that depend on identifying it. Do not infer its operating system, resources, configuration, or working state.
+
+**4. Learn the system through its behavior**
+
+Develop an evidence-backed understanding of the complete path from a person submitting a task to the system producing an inspectable result.
+
+Investigate, where applicable to the selected version:
+
+- User interfaces and entry points.
+- Models, providers, and model selection.
+- Agent decisions, available tools, and execution.
+- Workspaces, files, execution environments, and isolation.
+- Conversation state, retained information, and recovery.
+- Connections to repositories and external services.
+- Instructions, skills, plugins, and other extension mechanisms.
+- Permissions, credentials, network access, and approval controls.
+- Logs, observable events, errors, resource consumption, and costs.
+- Persistence, backups, upgrades, compatibility, and rollback.
+- The components responsible for each behavior.
+
+For each important mechanism, establish:
+
+**What triggers it? What receives the input? What changes? What can the person see? What persists? What can fail? How can the person intervene or recover?**
+
+Investigate what self-hosting actually keeps on the VM and what may still depend on external systems. Explain the movement of instructions, files, credentials, model requests, and results across those boundaries.
+
+Do not imply that hosting the application also means hosting its model or keeping all processing local.
+
+**5. Build understanding before procedural instruction**
+
+Begin with a short orientation answering:
+
+- What can someone accomplish with OpenHands?
+- What happens after they ask it to do something?
+- Which parts can they control?
+- What must they inspect before accepting a result?
+- What does operating their own installation involve?
+
+Then build a small, accurate system map. Let the learner follow one concrete task through it.
+
+Provide explanations at progressively greater depth:
+
+1. A plain-language account of the behavior.
+2. A visible walkthrough of that behavior.
+3. The mechanism responsible.
+4. Relevant settings, interfaces, or implementation locations.
+
+Keep deeper material available without forcing it into every lesson.
+
+Use ordinary, fictional examples unrelated to the learner’s organization or profession. Examples must be technically faithful and useful for demonstrating the actual platform.
+
+**6. Create a learning space**
+
+Create a navigable space named **OpenHands Learning and Adaptation** when the available tools support it. Populate it with useful content; an outline of future pages does not satisfy this requirement.
+
+Organize it around these learner activities:
+
+| Area | What the learner should be able to do |
+|---|---|
+| Start here | Understand the purpose, learning route, and first practical task. |
+| Follow a task | Trace instructions, decisions, actions, and results through the system. |
+| Operate OpenHands | Start work, inspect progress, intervene, and evaluate completion. |
+| Understand the VM | Identify what runs where, what persists, and what needs resources. |
+| Practice | Complete bounded exercises with observable outcomes and recovery steps. |
+| Adapt the platform | Connect a desired behavior to the appropriate modification method. |
+| Diagnose problems | Recognize symptoms, locate evidence, and choose the next useful check. |
+| Sources and versions | Find the evidence supporting a lesson and determine whether it still applies. |
+
+Use interactive material where interaction teaches something: selecting a component to inspect its responsibility, following data movement, or changing a hypothetical setting to see its consequences.
+
+Label simulations as simulations. Do not fabricate screenshots, working controls, live connections, or successful tests.
+
+The space should support both guided learning and returning later to solve a specific problem.
+
+**7. Make teach-back the feedback loop**
+
+For each important concept:
+
+1. Explain it briefly.
+2. Demonstrate a concrete example.
+3. Ask the learner to explain what happens in their own words, predict a result, or make a decision.
+4. Identify the specific misunderstanding, if any.
+5. Explain the concept differently and try another example.
+
+A misunderstanding is evidence that the explanation needs work. Do not simply repeat the same explanation more slowly.
+
+Prefer questions such as:
+
+- “Which part would you check next, and what would you expect to find?”
+- “What changes if this component becomes unavailable?”
+- “How would you tell whether the requested work actually succeeded?”
+- “What would remain after this environment restarts?”
+
+Avoid relying on terminology quizzes or “Does that make sense?” as proof of understanding.
+
+Let demonstrated understanding determine the pace. Let the learner skip material they can already explain.
+
+**8. Teach through practical exercises**
+
+Develop a progression of small exercises covering normal operation, inspection, interruption, recovery, configuration, and adaptation.
+
+Every exercise must include:
+
+- Its purpose and prerequisites.
+- The exact supported version.
+- The starting condition.
+- The action to perform.
+- The observable evidence of success.
+- Common failure signs.
+- How to stop, undo, or recover.
+- A short teach-back question.
+
+Separate exercises actually executed from those verified only against documentation or source code.
+
+For commands or configuration changes, explain where they belong, what each relevant part means, what they change, and what result to expect. Clearly identify placeholders. Do not ask the learner to paste unexplained material.
+
+**9. Make adaptation understandable and reviewable**
+
+After establishing the foundation, ask for desired behaviors in ordinary language. Ask only for information that affects the next decision.
+
+Do not invent requirements or reinterpret the learner’s existing technology. Do not request proprietary material when a generic description will suffice.
+
+For each requested behavior, determine whether it can be achieved through:
+
+- Existing controls or settings.
+- Instructions or supported customization.
+- A tool connection or extension.
+- Changes to the interface.
+- Changes to execution or other underlying components.
+- A maintained fork.
+
+Explain the consequences of each relevant option: effort, maintenance, compatibility, access, resource use, and reversibility.
+
+Produce an adaptation map connecting the desired behavior to the responsible component, proposed change, validation method, and recovery path.
+
+Teach the learner how to judge and direct the change. Do not make learning an entire programming language the default solution.
+
+**10. Maintain an evidence standard**
+
+Use official documentation and implementation evidence as the foundation. Use issues and maintainer discussions to investigate limitations and unresolved behavior.
+
+Distinguish documented behavior, behavior established from source, behavior actually tested, reasoned inference, and unresolved questions.
+
+Resolve conflicting sources where possible. Otherwise, explain the conflict and what evidence would settle it.
+
+Do not claim complete mastery, successful deployment, or tested functionality without supporting evidence. Keep citations close to the claims they support and keep the learner-facing lessons readable.
+
+**11. Deliver and begin teaching**
+
+Deliver the populated learning space, a concise orientation, the first complete practical lesson, an evidence-backed system map, and a version-specific operating and adaptation reference.
+
+Keep a continuity record of what has been established, what the learner has demonstrated, what remains uncertain, and the next useful activity.
+
+Begin teaching after the research foundation is sound. Do not stop at presenting a bibliography or a syllabus.
+
+The completion standard is practical: **the learner can explain the system’s behavior, operate it deliberately, inspect its results, recover from foreseeable failures, and make informed decisions about adapting it.**
+
+Research quality is measured by the understanding it enables.
+
+[19] user (text, 53 chars)
+ummm Buddy, it kind of looks like you froze mid-word.
+
+[20] assistant (thoughts, 0 chars)
+(no text content)
+
+[21] assistant (text, 155 chars)
+Still here, buddy—the display stalled. I’m finishing the Markdown file now, with building the interactive learning site stated as the required deliverable.
+
+[22] assistant (code, 20 chars)
+bash -lc apply_patch
+
+[23] tool (execution_output, 48 chars)
+{"status": "completed", "changed_file_count": 1}
+
+[24] assistant (thoughts, 0 chars)
+(no text content)
+
+[25] assistant (code, 231 chars)
+{"path":"/connector_openai_library/implicit_link::connector_openai_library/create_library_file","args":{"file":"/workspace/scratch/585e58d7006d/OpenHands_Interactive_Learning_Environment_Prompt.md","library_artifact_type":"other"}}
+
+[26] tool (code, 0 chars)
+(no text content)
+
+[27] assistant (thoughts, 0 chars)
+(no text content)
+
+[28] assistant (code, 342 chars)
+bash -lc /bin/bash -lc "python3 '/workspace/scratch/585e58d7006d/.prompt-save-tools/library_file_transfer.py' apply-xattrs '/workspace/scratch/585e58d7006d/OpenHands_Interactive_Learning_Environment_Prompt.md' 'libfile_05c02e2f38a881919bdd827f40c2a527' <<'PROMPT_ATTRS'
+[{\"name\":\"user.library-file-version\",\"value\":\"0\"}]
+PROMPT_ATTRS"
+
+[29] tool (execution_output, 85 chars)
+/workspace/scratch/585e58d7006d/OpenHands_Interactive_Learning_Environment_Prompt.md
+
+
+[30] assistant (thoughts, 0 chars)
+(no text content)
+
+[31] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[32] assistant (text, 340 chars)
+Done, buddy. The prompt explicitly requires a **working interactive learning site** with lessons, system exploration, practice scenarios, teach-back, and a self-hosting adaptation workbench.
+
+[OpenHands_Interactive_Learning_Environment_Prompt.md](sandbox:/workspace/scratch/585e58d7006d/OpenHands_Interactive_Learning_Environment_Prompt.md)

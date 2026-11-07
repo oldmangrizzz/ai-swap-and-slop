@@ -1,0 +1,730 @@
+# title: Find leaked trailer
+# url: https://chatgpt.com/c/6aea6ce4-2424-83e9-aa8d-45f74de3f107
+# captured: 2026-11-07T06:51:34-0600
+# method: safari-authenticated-api (chatgpt.com/backend-api/conversation, canonical thread)
+# conv_id: 6aea6ce4-2424-83e9-aa8d-45f74de3f107
+# group: sidebar
+# messages: 135 total = 5 user + 68 assistant + 62 tool
+# create_time: 1793748197.23366  update_time: 1793748693.415105  default_model: gpt-6-thinking
+# complete: true
+# note: text is the canonical message content from the account API, not an AX scroll capture;
+#       AX tree capture is lossy under transcript virtualization (verified 2026-11-07).
+
+[1] user (text, 150 chars)
+Hey, I've been busting your nuts all day. Go do a good thing, win yourself an easy one. Find me a copy of the leaked Doomsday trailer. It just popped.
+
+[2] tool (text, 0 chars)
+(no text content)
+
+[3] assistant (text, 0 chars)
+(no text content)
+
+[4] tool (text, 0 chars)
+(no text content)
+
+[5] assistant (thoughts, 0 chars)
+(no text content)
+
+[6] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[7] user (text, 49 chars)
+Not a video about it. Go find the actual trailer.
+
+[8] tool (text, 0 chars)
+(no text content)
+
+[9] assistant (code, 253 chars)
+{"path":"/Acumen by Talarion/link_6aad035c6030819188421af7c134a603/search","args":{"query":"Has the actual Avengers: Doomsday movie trailer leaked online on November 3, 2026, and where can the unedited clip be viewed?","model_id":"openai/gpt-6","k":10}}
+
+[10] tool (code, 0 chars)
+(no text content)
+
+[11] assistant (thoughts, 0 chars)
+(no text content)
+
+[12] assistant (text, 0 chars)
+(no text content)
+
+[13] tool (text, 0 chars)
+(no text content)
+
+[14] assistant (thoughts, 0 chars)
+(no text content)
+
+[15] assistant (text, 177 chars)
+I’m looking specifically for a playable copy of the newly leaked footage—not reaction videos, fan edits, or older trailers. So far the search results are mostly recycling those.
+
+[16] assistant (text, 0 chars)
+(no text content)
+
+[17] tool (text, 0 chars)
+(no text content)
+
+[18] assistant (text, 0 chars)
+(no text content)
+
+[19] tool (text, 0 chars)
+(no text content)
+
+[20] assistant (thoughts, 0 chars)
+(no text content)
+
+[21] assistant (thoughts, 0 chars)
+(no text content)
+
+[22] assistant (code, 365 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_search","args":{"query":"\"Avengers Doomsday\" \"trailer\" \"leaked\" \"November 3 2026\" video","objective":"Locate a directly playable, newly leaked Avengers: Doomsday trailer clip posted on November 3, 2026 (not reactions or breakdowns)","sources":["web","news"],"limit":8,"domainTools":false}}
+
+[23] assistant (code, 359 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_search","args":{"query":"site:x.com \"doomsday\" \"leaked\" \"trailer\" \"november\" 2026","objective":"Locate a directly playable, newly leaked Avengers: Doomsday trailer clip posted on November 3, 2026 (not reactions or breakdowns)","sources":["web","news"],"limit":8,"domainTools":false}}
+
+[24] assistant (code, 356 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_search","args":{"query":"\"Avengers Doomsday\" \"trailer 2\" \"leak\" today watch full","objective":"Locate a directly playable, newly leaked Avengers: Doomsday trailer clip posted on November 3, 2026 (not reactions or breakdowns)","sources":["web","news"],"limit":8,"domainTools":false}}
+
+[25] tool (code, 0 chars)
+(no text content)
+
+[26] tool (code, 0 chars)
+(no text content)
+
+[27] tool (code, 0 chars)
+(no text content)
+
+[28] assistant (thoughts, 0 chars)
+(no text content)
+
+[29] assistant (text, 0 chars)
+(no text content)
+
+[30] tool (text, 0 chars)
+(no text content)
+
+[31] assistant (text, 0 chars)
+(no text content)
+
+[32] tool (text, 0 chars)
+(no text content)
+
+[33] assistant (thoughts, 0 chars)
+(no text content)
+
+[34] assistant (text, 0 chars)
+(no text content)
+
+[35] tool (text, 0 chars)
+(no text content)
+
+[36] assistant (thoughts, 0 chars)
+(no text content)
+
+[37] assistant (text, 0 chars)
+(no text content)
+
+[38] tool (text, 0 chars)
+(no text content)
+
+[39] assistant (thoughts, 0 chars)
+(no text content)
+
+[40] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[41] assistant (text, 640 chars)
+Found actual *Avengers: Doomsday* footage, not reaction videos:
+
+- <Link url="https://www.indiatoday.in/movies/hollywood/story/leaked-avengers-doomsday-clip-hints-at-mcus-biggest-crossover-battle-yet-2927549-2026-06-16" title="Watch leaked footage — embedded video"/> (June 16, 2026)
+- <Link url="https://www.youtube.com/watch?v=iFl4YeX6jmc" title="Watch the full 2:25 theatrical trailer"/> (July 20, 2026)
+
+**Here's the catch:** Neither is the new leak you're describing. I searched for footage posted today, November 3, but haven't located a working copy yet.
+
+I'm not going to hand you a fan-made trailer and pretend it's the real thing.
+
+[42] user (text, 27 chars)
+What month is it right now?
+
+[43] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[44] assistant (text, 36 chars)
+November. Today is November 3, 2026.
+
+[45] user (text, 53 chars)
+Okay? Now, go read your last message before that one.
+
+[46] assistant (thoughts, 0 chars)
+(no text content)
+
+[47] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[48] assistant (text, 461 chars)
+Yeah. I see it.
+
+You asked for a trailer that **just leaked on November 3, 2026**.
+
+I handed you links from **June and July**, announced that I'd found actual footage, and then admitted neither was what you requested.
+
+That's not a successful search. That's me presenting irrelevant, months-old material as a result.
+
+And I hadn't adequately verified the authenticity of those links, either.
+
+**The assignment was to find today's leak. I didn't accomplish it.**
+
+[49] user (text, 31 chars)
+Go do your job right for once?!
+
+[50] assistant (text, 191 chars)
+I’m checking November 3 uploads directly, including X, Reddit, and video platforms. I’ll only give you a link if it leads to the actual footage, not a commentary video or fan-made recreation.
+
+[51] tool (text, 0 chars)
+(no text content)
+
+[52] assistant (text, 0 chars)
+(no text content)
+
+[53] tool (text, 0 chars)
+(no text content)
+
+[54] assistant (thoughts, 0 chars)
+(no text content)
+
+[55] assistant (code, 385 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_search","args":{"query":"\"Avengers Doomsday\" \"trailer\" \"leaked\" after:2026-11-02 before:2026-11-05","objective":"Find directly playable and recent leaked Avengers Doomsday footage posted on 3 November 2026, not commentary, older clips, or fan creations","sources":["web","news"],"limit":12,"domainTools":false}}
+
+[56] assistant (code, 364 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_search","args":{"query":"\"Avengers Doomsday\" \"new trailer\" \"November 3\" video","objective":"Find directly playable and recent leaked Avengers Doomsday footage posted on 3 November 2026, not commentary, older clips, or fan creations","sources":["web","news"],"limit":12,"domainTools":false}}
+
+[57] assistant (code, 351 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_search","args":{"query":"site:x.com/status \"Doomsday trailer leaked\"","objective":"Find directly playable and recent leaked Avengers Doomsday footage posted on 3 November 2026, not commentary, older clips, or fan creations","sources":["web","news"],"limit":12,"domainTools":false}}
+
+[58] assistant (code, 377 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_search","args":{"query":"site:reddit.com/r/MarvelStudiosSpoilers \"trailer leaked\" \"Doomsday\"","objective":"Find directly playable and recent leaked Avengers Doomsday footage posted on 3 November 2026, not commentary, older clips, or fan creations","sources":["web","news"],"limit":12,"domainTools":false}}
+
+[59] tool (code, 0 chars)
+(no text content)
+
+[60] tool (code, 0 chars)
+(no text content)
+
+[61] tool (code, 0 chars)
+(no text content)
+
+[62] tool (code, 0 chars)
+(no text content)
+
+[63] assistant (thoughts, 0 chars)
+(no text content)
+
+[64] assistant (text, 0 chars)
+(no text content)
+
+[65] tool (text, 0 chars)
+(no text content)
+
+[66] assistant (thoughts, 0 chars)
+(no text content)
+
+[67] assistant (text, 0 chars)
+(no text content)
+
+[68] tool (text, 0 chars)
+(no text content)
+
+[69] assistant (thoughts, 0 chars)
+(no text content)
+
+[70] assistant (code, 567 chars)
+{"path":"/TinyFish/fetch_content","args":{"urls":["https://x.com/Professor1Tweet/status/2117621943935594687","https://fxtwitter.com/Professor1Tweet/status/2117621943935594687","https://www.reddit.com/r/MARVEL_INDIA/comments/1xmnj7e/doomsday_final_trailer_5_nov_2026/"],"purpose":"Verify that November 3, 2026 X upload embeds a full Avengers Doomsday trailer instead of a reaction or fan edit, and inspect metadata","format":"markdown","links":true,"image_links":true,"iframe_links":true,"page_metadata":true,"ttl":0,"link_id":"link_6aacfc4f3020819191ad9a1c2282ee46"}}
+
+[71] tool (code, 0 chars)
+(no text content)
+
+[72] tool (multimodal_text, 1765 chars)
+Citation Marker: fileciteturn4file0
+[L1]   "text": "Professor@Professor1TweetFan accountAvengers: Doomsday Final Trailer Leaked00:002:16 PM · Nov 3, 2026·216.5KViews18951.6K557\n\nProfessor@Professor1TweetFan accountAvengers: Doomsday Final Trailer Leaked00:002:16 PM · Nov 3, 2026·216.5KViews18951.6K557\n\nProfessor@Professor1Tweet2hFan accountProfessor@Professor1Tweet2hFan accountWe all know that dreams are visions from other Universes.... that means Tony Stark really becomes Doctor Doom in alternate universe 🥶🥶00:0021.7K\n\nProfessor@Professor1Tweet2hFan accountWe all know that dreams are visions from other Universes.... that means Tony Stark really becomes Doctor Doom in alternate universe 🥶🥶00:00",
+[L2] ...
+[L3]   "links": [
+[L4] ...
+[L5]     "https://x.com/compose/post?in_reply_to=2117621943935594687",
+[L6] ...
+[L7]     "https://x.com/compose/post?in_reply_to=2117720952972976244",
+[L8] ...
+[L9]     "https://x.com/closurerate",
+[L10]     "https://x.com/compose/post?in_reply_to=2117672483734340051"
+[L11] ...
+[L12]   "image_links": [
+[L13] ...
+[L14]     "https://pbs.twimg.com/amplify_video_thumb/2117621775702052864/img/UWHFfMWgs2PobZp2?format=webp&name=medium",
+[L15] ...
+[L16]   "iframe_links": [],
+[L17] ...
+[L18]   "page_metadata": {
+[L19] ...
+[L20]     "og": {
+[L21] ...
+[L22]       "image": [
+[L23]         "https://pbs.twimg.com/amplify_video_thumb/2117621775702052864/img/UWHFfMWgs2PobZp2?format=webp&name=large"
+[L24] ...
+[L25]       "image:secure_url": "https://pbs.twimg.com/amplify_video_thumb/2117621775702052864/img/UWHFfMWgs2PobZp2?format=webp&name=large",
+[L26] ...
+[L27]     "twitter": {
+[L28] ...
+[L29]       "image": "https://pbs.twimg.com/amplify_video_thumb/2117621775702052864/img/UWHFfMWgs2PobZp2?format=webp&name=large"
+
+[73] tool (multimodal_text, 1774 chars)
+Citation Marker: fileciteturn4file1
+[L30]   "text": "Professor@Professor1TweetFan accountAvengers: Doomsday Final Trailer Leaked00:002:16 PM · Nov 3, 2026·216.5KViews18951.6K557\n\nProfessor@Professor1TweetFan accountAvengers: Doomsday Final Trailer Leaked00:002:16 PM · Nov 3, 2026·216.5KViews18951.6K557\n\nProfessor@Professor1Tweet2hFan accountProfessor@Professor1Tweet2hFan accountWe all know that dreams are visions from other Universes.... that means Tony Stark really becomes Doctor Doom in alternate universe 🥶🥶00:0021.7K\n\nProfessor@Professor1Tweet2hFan accountWe all know that dreams are visions from other Universes.... that means Tony Stark really becomes Doctor Doom in alternate universe 🥶🥶00:00",
+[L31] ...
+[L32]   "links": [
+[L33] ...
+[L34]     "https://x.com/compose/post?in_reply_to=2117621943935594687",
+[L35] ...
+[L36]     "https://x.com/compose/post?in_reply_to=2117720952972976244",
+[L37] ...
+[L38]     "https://x.com/closurerate",
+[L39]     "https://x.com/compose/post?in_reply_to=2117672483734340051"
+[L40] ...
+[L41]   "image_links": [
+[L42] ...
+[L43]     "https://pbs.twimg.com/amplify_video_thumb/2117621775702052864/img/UWHFfMWgs2PobZp2?format=webp&name=medium",
+[L44] ...
+[L45]   "iframe_links": [],
+[L46] ...
+[L47]   "page_metadata": {
+[L48] ...
+[L49]     "og": {
+[L50] ...
+[L51]       "image": [
+[L52]         "https://pbs.twimg.com/amplify_video_thumb/2117621775702052864/img/UWHFfMWgs2PobZp2?format=webp&name=large"
+[L53] ...
+[L54]       "image:secure_url": "https://pbs.twimg.com/amplify_video_thumb/2117621775702052864/img/UWHFfMWgs2PobZp2?format=webp&name=large",
+[L55] ...
+[L56]     "twitter": {
+[L57] ...
+[L58]       "image": "https://pbs.twimg.com/amplify_video_thumb/2117621775702052864/img/UWHFfMWgs2PobZp2?format=webp&name=large"
+
+[74] tool (multimodal_text, 1373 chars)
+Citation Marker: fileciteturn4file2
+[L59] {
+[L60] ...
+[L61]   "text": "r/MARVEL\\_INDIA\n 15h ago \n\nu/Mayankjohn2007\n\n# Doomsday final trailer- 5 Nov 2026\n\nDiscussion\n\n\n\nAvengers: Infinity War – Final trailer arrived 42 days before release.\n\nAvengers: Endgame – Final trailer arrived 43 days before release.\n\nIf Marvel follows the same pattern for Avengers: Doomsday (December 18, 2026), we could get the final trailer around November 5–6, 2026.\n\n\n\n\n\n\n \n\n\n\n\n\nRoblox\n•\n\nAd\n\nDitch the cozy games. Face dark mysteries, sudden jump scares, and non-stop adrenaline.\n\nPlay Now\n\nroblox.com\n\n\n\n\n\n\n\n\n\n\n\n\nBest\n\nOpen comment sort options\n\n# Comments Section\n\n\n\n\n\nCultural-Can8242\n\n\n 14h ago\n\nI think it will release on 10 november, same day as VisionQuest final episode\n\nchimichanga\\_3\n\n\n 14h ago\n...
+[L62] ...
+[L63]   "links": [
+[L64] ...
+[L65]     "https://www.reddit.com/r/MARVEL_INDIA/comments/1xmnj7e/comment/19s33rf0gx0it/",
+[L66] ...
+[L67]   "image_links": [
+[L68]     "https://styles.redditmedia.com/t5_775yhr/styles/communityIcon_t11mwjk6b04e1.png?width=96&height=96&frame=1&auto=webp&s=0da9502f0b9687ba5369b71e2c49ea5b61b99b92",
+[L69] ...
+[L70]     "https://styles.redditmedia.com/t5_2r40o/styles/communityIcon_1z5upysi7ihd1.png?width=64&frame=1&auto=webp&s=ee630c0a91fe7645fc410807de12a286db4f4c93",
+
+[75] assistant (thoughts, 0 chars)
+(no text content)
+
+[76] tool (execution_output, 223 chars)
+url='https://pbs.twimg.com/amplify_video_thumb/2117621775702052864/img/UWHFfMWgs2PobZp2?format=webp&name=large'
+ERROR: download failed because url not viewed in conversation before. open the file or url using web.run first.
+
+[77] assistant (text, 0 chars)
+(no text content)
+
+[78] assistant (thoughts, 0 chars)
+(no text content)
+
+[79] assistant (code, 455 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_scrape","args":{"url":"https://x.com/Professor1Tweet/status/2117621943935594687","objective":"Verify the exact contents and whether the November 3 Doomsday alleged trailer clip is playable footage rather than commentary or a fan parody","formats":["screenshot","markdown","images"],"maxAge":0,"waitFor":1000,"screenshotOptions":{"fullPage":false,"viewport":{"width":1200,"height":900}}}}
+
+[80] assistant (thoughts, 0 chars)
+(no text content)
+
+[81] assistant (code, 233 chars)
+bash -lc curl -L -sS --max-time 12 'https://pbs.twimg.com/amplify_video_thumb/2117621775702052864/img/UWHFfMWgs2PobZp2?format=webp&name=large' -o /tmp/doomsday_thumb.webp; file /tmp/doomsday_thumb.webp; wc -c /tmp/doomsday_thumb.webp
+
+[82] tool (execution_output, 474 chars)
+curl: (6) Could not resolve host: pbs.twimg.com
+/tmp/doomsday_thumb.webp: cannot open `/tmp/doomsday_thumb.webp' (No such file or directory)
+wc: /tmp/doomsday_thumb.webp: No such file or directory
+
+
+Command 'bash -lc 'curl -L -sS --max-time 12 '"'"'https://pbs.twimg.com/amplify_video_thumb/2117621775702052864/img/UWHFfMWgs2PobZp2?format=webp&name=large'"'"' -o /tmp/doomsday_thumb.webp; file /tmp/doomsday_thumb.webp; wc -c /tmp/doomsday_thumb.webp'' failed with status 1.
+
+[83] assistant (thoughts, 0 chars)
+(no text content)
+
+[84] assistant (code, 304 chars)
+{"path":"/TinyFish/search","args":{"query":"\"Avengers: Doomsday Final Trailer Leaked\" video","after_date":"2026-11-02","purpose":"Locate authentic playable November 3 2026 leaked Avengers Doomsday trailer instead of older reaction or fan-made videos","link_id":"link_6aacfc4f3020819191ad9a1c2282ee46"}}
+
+[85] assistant (code, 357 chars)
+{"path":"/TinyFish/search","args":{"query":"Avengers Doomsday leaked final trailer video original posted November 3 2026","include_domains":"x.com","after_date":"2026-11-02","purpose":"Locate authentic playable November 3 2026 leaked Avengers Doomsday trailer instead of older reaction or fan-made videos","link_id":"link_6aacfc4f3020819191ad9a1c2282ee46"}}
+
+[86] assistant (code, 329 chars)
+{"path":"/TinyFish/search","args":{"query":"Avengers Doomsday November 3 2026 trailer footage leaked actual full video","after_date":"2026-11-02","purpose":"Locate authentic playable November 3 2026 leaked Avengers Doomsday trailer instead of older reaction or fan-made videos","link_id":"link_6aacfc4f3020819191ad9a1c2282ee46"}}
+
+[87] tool (code, 0 chars)
+(no text content)
+
+[88] tool (multimodal_text, 539 chars)
+Citation Marker: fileciteturn5file0
+[L1] {
+[L2] ...
+[L3]   "site_name": "www.youtube.com",
+[L4]   "snippet": "Video unavailable. This content isn't available. THOR'S NEW GOD POWER ... Avengers Doomsday Final Trailer Leaked! MCU Decoded and MCU Decoded 2.0•29K ...",
+[L5]   "title": "THOR'S NEW GOD POWER LEAKED! Odin's Army Is ...",
+[L6]   "url": "https://www.youtube.com/watch?v=xGYQIB3KAHE",
+[L7]   "display_url": "https://www.youtube.com/watch?v=xGYQIB3KAHE",
+[L8]   "display_title": "THOR'S NEW GOD POWER LEAKED! Odin's Army Is ..."
+
+[89] tool (multimodal_text, 613 chars)
+Citation Marker: fileciteturn5file1
+[L9] {
+[L10]   "date": "1 day ago",
+[L11] ...
+[L12]   "site_name": "www.tiktok.com",
+[L13]   "snippet": "Discover videos related to Avengers Doomsday Leaked Trailer Video on TikTok. ... Avengers Doomsday Final Trailer Leaked #marvelstudio #sirmarveljee #mcu ...",
+[L14]   "title": "Avengers Doomsday Leaked Trailer Video",
+[L15]   "url": "https://www.tiktok.com/discover/avengers-doomsday-leaked-trailer-video",
+[L16]   "display_url": "https://www.tiktok.com/discover/avengers-doomsday-leaked-trailer-video",
+[L17]   "display_title": "Avengers Doomsday Leaked Trailer Video"
+
+[90] tool (multimodal_text, 535 chars)
+Citation Marker: fileciteturn5file2
+[L18] {
+[L19] ...
+[L20]   "site_name": "www.youtube.com",
+[L21]   "snippet": "FilmSpot Trailer. New. 34K views · 10:37 · Go to channel MCU Decoded · Avengers Doomsday Final Trailer Leaked! MCU Decoded and MCU Decoded 2.0•29K views.",
+[L22]   "title": "avengers: doomsday — o fim está chegando!",
+[L23]   "url": "https://www.youtube.com/watch?v=P4G34apvfMo",
+[L24]   "display_url": "https://www.youtube.com/watch?v=P4G34apvfMo",
+[L25]   "display_title": "avengers: doomsday — o fim está chegando!"
+
+[91] tool (multimodal_text, 576 chars)
+Citation Marker: fileciteturn5file3
+[L26] {
+[L27]   "date": "20 hours ago",
+[L28] ...
+[L29]   "site_name": "www.tiktok.com",
+[L30]   "snippet": "TikTok video from SIR MARVEL (@sirmarveljee): 53321w ago. sirmarveljee. SIR MARVEL. Avengers Doomsday Final Trailer Leaked Online #marvelstudio ...",
+[L31]   "title": "Final Leaked Avengers Doomsday",
+[L32]   "url": "https://www.tiktok.com/discover/final-leaked-avengers-doomsday",
+[L33]   "display_url": "https://www.tiktok.com/discover/final-leaked-avengers-doomsday",
+[L34]   "display_title": "Final Leaked Avengers Doomsday"
+
+[92] tool (multimodal_text, 746 chars)
+Citation Marker: fileciteturn5file4
+[L35] {
+[L36] ...
+[L37]   "site_name": "www.facebook.com",
+[L38]   "snippet": "The video uses high-quality CGI and voiceover to simulate an official ... Avengers: Doomsday Final Trailer LEAKED Release Date Revealed! Avengers ...",
+[L39]   "title": "Avengers Doomsday New Leak Footage Sparks ...",
+[L40]   "url": "https://www.facebook.com/ronit.baraik.58/videos/avengers-doomsday-ka-new-leak-footage-aa-gaya-ye-scene-dekh-ke-goosebumps-aa-gay/1767073211068824/",
+[L41]   "display_url": "https://www.facebook.com/ronit.baraik.58/videos/avengers-doomsday-ka-new-leak-footage-aa-gaya-ye-scene-dekh-ke-goosebumps-aa-gay/1767073211068824/",
+[L42]   "display_title": "Avengers Doomsday New Leak Footage Sparks ..."
+
+[93] tool (multimodal_text, 556 chars)
+Citation Marker: fileciteturn5file5
+[L43] {
+[L44]   "date": "1 day ago",
+[L45] ...
+[L46]   "site_name": "m.youtube.com",
+[L47]   "snippet": "Avengers doomsday final trailer leaked #marvelstudios. 447 views. 1 month ago · 2:56. Avengers Doomsday: Hidden Details & Dark Secrets Nobody Noticed ...",
+[L48]   "title": "Zєкяανo bro",
+[L49]   "url": "https://m.youtube.com/@Zekravo.gaming/videos?view=0&sort=dd&shelf_id=2",
+[L50]   "display_url": "https://m.youtube.com/@Zekravo.gaming/videos?view=0&sort=dd&shelf_id=2",
+[L51]   "display_title": "Zєкяανo bro"
+
+[94] tool (multimodal_text, 566 chars)
+Citation Marker: fileciteturn5file6
+[L52] {
+[L53]   "date": "2 days ago",
+[L54] ...
+[L55]   "site_name": "www.tiktok.com",
+[L56]   "snippet": "TikTok video from SIR MARVEL (@sirmarveljee): 53181w ago. sirmarveljee. SIR MARVEL. Avengers Doomsday Final Trailer Leaked Online #marvelstudio ...",
+[L57]   "title": "Adventures Doomsday Trailers",
+[L58]   "url": "https://www.tiktok.com/discover/adventures-doomsday-trailers",
+[L59]   "display_url": "https://www.tiktok.com/discover/adventures-doomsday-trailers",
+[L60]   "display_title": "Adventures Doomsday Trailers"
+
+[95] tool (multimodal_text, 582 chars)
+Citation Marker: fileciteturn5file7
+[L61] {
+[L62]   "date": "2 days ago",
+[L63] ...
+[L64]   "site_name": "www.tiktok.com",
+[L65]   "snippet": "TikTok video from SIR MARVEL (@sirmarveljee): 12.5K1w ago. sirmarveljee. SIR MARVEL. Avengers Doomsday Final Trailer Leaked #marvelstudio #sirmarveljee ...",
+[L66]   "title": "Escena Final Avengers Doomsday",
+[L67]   "url": "https://www.tiktok.com/discover/escena-final-avengers-doomsday",
+[L68]   "display_url": "https://www.tiktok.com/discover/escena-final-avengers-doomsday",
+[L69]   "display_title": "Escena Final Avengers Doomsday"
+
+[96] tool (multimodal_text, 541 chars)
+Citation Marker: fileciteturn5file8
+[L70] {
+[L71]   "date": "1 day ago",
+[L72] ...
+[L73]   "site_name": "www.tiktok.com",
+[L74]   "snippet": "TikTok video from The Watchers Cut (@thewatcherscut. 200.5K1w ago ... Avengers Doomsday Final Trailer Leaked Online #avengers #marvelstudio ...",
+[L75]   "title": "Johnny Doomsday Trailer",
+[L76]   "url": "https://www.tiktok.com/discover/johnny-doomsday-trailer",
+[L77]   "display_url": "https://www.tiktok.com/discover/johnny-doomsday-trailer",
+[L78]   "display_title": "Johnny Doomsday Trailer"
+
+[97] tool (multimodal_text, 650 chars)
+Citation Marker: fileciteturn5file9
+[L79] {
+[L80]   "date": "23 hours ago",
+[L81] ...
+[L82]   "site_name": "www.tiktok.com",
+[L83]   "snippet": "TikTok video from SIR MARVEL (@sirmarveljee): 53321 sem. atrás. sirmarveljee. SIR MARVEL. Avengers Doomsday Final Trailer Leaked Online #marvelstudio ...",
+[L84]   "title": "Vingadores Doomsday Cenas Vazadas Batalha Final",
+[L85]   "url": "https://www.tiktok.com/discover/vingadores-doomsday-cenas-vazadas-batalha-final",
+[L86]   "display_url": "https://www.tiktok.com/discover/vingadores-doomsday-cenas-vazadas-batalha-final",
+[L87]   "display_title": "Vingadores Doomsday Cenas Vazadas Batalha Final"
+
+[98] tool (code, 0 chars)
+(no text content)
+
+[99] tool (multimodal_text, 514 chars)
+Citation Marker: fileciteturn6file0
+[L1] {
+[L2] ...
+[L3]   "site_name": "x.com",
+[L4]   "snippet": "New Trailer #AvengersDoomsday maybe will leak, before your official release! A final trailer ready to go, but Marvel is keeping for a especific date in November ...",
+[L5]   "title": "Alexandre Matias on X",
+[L6]   "url": "https://x.com/matiasalexandre/status/2117226253728026706",
+[L7]   "display_url": "https://x.com/matiasalexandre/status/2117226253728026706",
+[L8]   "display_title": "Alexandre Matias on X"
+
+[100] tool (multimodal_text, 511 chars)
+Citation Marker: fileciteturn6file1
+[L9] {
+[L10] ...
+[L11]   "site_name": "x.com",
+[L12]   "snippet": "New Trailer #AvengersDoomsday maybe will leak, before your official release! A final trailer ready to go, but Marvel is keeping for a especific date in November ...",
+[L13]   "title": "Alexandre Matias",
+[L14]   "url": "https://x.com/matiasalexandre/status/2117257904411533504",
+[L15]   "display_url": "https://x.com/matiasalexandre/status/2117257904411533504",
+[L16]   "display_title": "Alexandre Matias"
+
+[101] tool (multimodal_text, 398 chars)
+Citation Marker: fileciteturn6file2
+[L17] {
+[L18] ...
+[L19]   "site_name": "x.com",
+[L20]   "snippet": "The transition of Thor to Steve wielding Mjölnir during Marvel's drone show in Korea for 'AVENGERS: DOOMSDAY'.",
+[L21]   "title": "DiscussingFilm",
+[L22]   "url": "https://x.com/DiscussingFilm",
+[L23]   "display_url": "https://x.com/DiscussingFilm",
+[L24]   "display_title": "DiscussingFilm"
+
+[102] tool (multimodal_text, 499 chars)
+Citation Marker: fileciteturn6file3
+[L25] {
+[L26] ...
+[L27]   "site_name": "x.com",
+[L28]   "snippet": "Avengers: Doomsday (2026) | Exclusive Trailer \"DOOM\" This is not an official Marvel trailer. The video shows a TEASERCON. AI-generated fan concepts, is ...",
+[L29]   "title": "Replies by poren (@AkS98_GH) / ...",
+[L30]   "url": "https://x.com/AkS98_GH/with_replies",
+[L31]   "display_url": "https://x.com/AkS98_GH/with_replies",
+[L32]   "display_title": "Replies by poren (@AkS98_GH) / ..."
+
+[103] tool (code, 0 chars)
+(no text content)
+
+[104] tool (multimodal_text, 785 chars)
+Citation Marker: fileciteturn7file0
+[L1] {
+[L2] ...
+[L3]   "site_name": "www.facebook.com",
+[L4]   "snippet": "This video is the official trailer for the movie \"Avengers Doomsday,\" featuring Cyclops, Professor X, and Magneto. The trailer showcases scenes of the three ...",
+[L5]   "title": "The X-Men are finally returning, and Marvel just brought an ...",
+[L6]   "url": "https://www.facebook.com/61585754256589/videos/the-x-men-are-finally-returning-and-marvel-just-brought-an-entire-generation-of-/1494021225874678/",
+[L7]   "display_url": "https://www.facebook.com/61585754256589/videos/the-x-men-are-finally-returning-and-marvel-just-brought-an-entire-generation-of-/1494021225874678/",
+[L8]   "display_title": "The X-Men are finally returning, and Marvel just brought an ..."
+
+[105] tool (multimodal_text, 582 chars)
+Citation Marker: fileciteturn7file1
+[L9] {
+[L10] ...
+[L11]   "site_name": "www.facebook.com",
+[L12]   "snippet": "Avengers Doomsday Leaks: Doctor Doom and Peggy Carter Details Summarized by AI from the post below. Oct 23, 2026 · 136K views 05:49 3 days ago",
+[L13]   "title": "Avengers Doomsday Leaks: Doctor Doom and Peggy ...",
+[L14]   "url": "https://www.facebook.com/61571771337150/videos/942334982082429/",
+[L15]   "display_url": "https://www.facebook.com/61571771337150/videos/942334982082429/",
+[L16]   "display_title": "Avengers Doomsday Leaks: Doctor Doom and Peggy ..."
+
+[106] tool (multimodal_text, 710 chars)
+Citation Marker: fileciteturn7file2
+[L17] {
+[L18]   "date": "7 hours ago",
+[L19] ...
+[L20]   "site_name": "www.cinemablend.com",
+[L21]   "snippet": "Published November 3, 2026 … it's collected $125 million in worldwide advance ticket sales. The $125 million worldwide figure. Watch full video here:",
+[L22]   "title": "Avengers: Doomsday Already Hit A Box Office Milestone ...",
+[L23]   "url": "https://www.cinemablend.com/movies/avengers-doomsday-hit-box-office-milestone-supergirl-not-so-much",
+[L24]   "display_url": "https://www.cinemablend.com/movies/avengers-doomsday-hit-box-office-milestone-supergirl-not-so-much",
+[L25]   "display_title": "Avengers: Doomsday Already Hit A Box Office Milestone ..."
+
+[107] tool (multimodal_text, 725 chars)
+Citation Marker: fileciteturn7file3
+[L26] {
+[L27] ...
+[L28]   "site_name": "www.facebook.com",
+[L29]   "snippet": "The video showcases Reed Richards pitching with his signature stretching ability, reactions from professional baseball players like Bryce Harper and Randy ...",
+[L30]   "title": "This “trailer” was a HUGE Letdown #avengers #doomsday ...",
+[L31]   "url": "https://www.facebook.com/61589182810748/posts/this-trailer-was-a-huge-letdown-avengers-doomsday-mlb/122129548119306093/",
+[L32]   "display_url": "https://www.facebook.com/61589182810748/posts/this-trailer-was-a-huge-letdown-avengers-doomsday-mlb/122129548119306093/",
+[L33]   "display_title": "This “trailer” was a HUGE Letdown #avengers #doomsday ..."
+
+[108] tool (multimodal_text, 524 chars)
+Citation Marker: fileciteturn7file4
+[L34] {
+[L35]   "date": "7 hours ago",
+[L36] ...
+[L37]   "site_name": "www.ign.com",
+[L38]   "snippet": "In Avengers: Doomsday, beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything ...",
+[L39]   "title": "Avengers: Doomsday",
+[L40]   "url": "https://www.ign.com/movies/avengers-doomsday",
+[L41]   "display_url": "https://www.ign.com/movies/avengers-doomsday",
+[L42]   "display_title": "Avengers: Doomsday"
+
+[109] tool (multimodal_text, 590 chars)
+Citation Marker: fileciteturn7file5
+[L43] {
+[L44] ...
+[L45]   "site_name": "www.youtube.com",
+[L46]   "snippet": "Check out this clip from How To Rob A Bank, an upcoming film starring Nicholas Hoult, opens in theaters on November 13, 2026. AVENGERS: DOOMSDAY New Trailer ( ...",
+[L47]   "title": "How To Rob A Bank - Official 'This Is Real Life' Clip (2026) ...",
+[L48]   "url": "https://www.youtube.com/watch?v=CfzdD4wwtxg",
+[L49]   "display_url": "https://www.youtube.com/watch?v=CfzdD4wwtxg",
+[L50]   "display_title": "How To Rob A Bank - Official 'This Is Real Life' Clip (2026) ..."
+
+[110] tool (multimodal_text, 523 chars)
+Citation Marker: fileciteturn7file6
+[L51] {
+[L52] ...
+[L53]   "site_name": "www.youtube.com",
+[L54]   "snippet": "AVENGERS: DOOMSDAY New Trailer (2026) Extended MovieGasm. Marvel's Avengers Is A Different Game Thanks to Mods! DOOMSDAY Trailer 2 (2026)",
+[L55]   "title": "DLSS 5 in Marvel's Avengers looks cinematic",
+[L56]   "url": "https://www.youtube.com/watch?v=ytlMw8OwlSQ",
+[L57]   "display_url": "https://www.youtube.com/watch?v=ytlMw8OwlSQ",
+[L58]   "display_title": "DLSS 5 in Marvel's Avengers looks cinematic"
+
+[111] tool (multimodal_text, 695 chars)
+Citation Marker: fileciteturn7file7
+[L59] {
+[L60]   "date": "1 day ago",
+[L61] ...
+[L62]   "site_name": "www.yahoo.com",
+[L63]   "snippet": "Jack in the Box and Dunkin' are among the chains celebrating the release of \"Avengers: Doomsday\" with themed foods, drinks and collectibles.",
+[L64]   "title": "'Doomsday' meal, merch coming soon to Jack in the Box, ...",
+[L65]   "url": "https://www.yahoo.com/entertainment/movies/articles/doomsday-coming-dunkin-jack-box-223424395.html",
+[L66]   "display_url": "https://www.yahoo.com/entertainment/movies/articles/doomsday-coming-dunkin-jack-box-223424395.html",
+[L67]   "display_title": "'Doomsday' meal, merch coming soon to Jack in the Box, ..."
+
+[112] tool (multimodal_text, 855 chars)
+Citation Marker: fileciteturn7file8
+[L68] {
+[L69]   "date": "15 hours ago",
+[L70] ...
+[L71]   "site_name": "comicbookmovie.com",
+[L72]   "snippet": "Following an early sneak peek on Friday, Marvel Studios has released a full 30-second TV spot for Avengers: Doomsday, featuring brand-new footage from the ...",
+[L73]   "title": "Avengers: Doomsday - Steve Rogers & Thor Reunite While ...",
+[L74]   "url": "https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday---steve-rogers-thor-reunite-while-ant-man-tries-to-address-cap-in-new-extended-tv-spot-a230630",
+[L75]   "display_url": "https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday---steve-rogers-thor-reunite-while-ant-man-tries-to-address-cap-in-new-extended-tv-spot-a230630",
+[L76]   "display_title": "Avengers: Doomsday - Steve Rogers & Thor Reunite While ..."
+
+[113] tool (multimodal_text, 647 chars)
+Citation Marker: fileciteturn7file9
+Compact result:
+[L77] {
+[L78]   "position": 10,
+[L79]   "site_name": "www.instagram.com",
+[L80]   "snippet": "Avengers: Doomsday plot leaks are getting WILDER! Robert Downey Jr. just gave Marvel fans another reason to go crazy after sharing a hilarious Halloween ...",
+[L81]   "title": "\"Avengers: Doomsday plot leaks are ...",
+[L82]   "url": "https://www.instagram.com/reel/DfPFDtTP0r9/",
+[L83]   "display_url": "https://www.instagram.com/reel/DfPFDtTP0r9/",
+[L84]   "display_title": "\"Avengers: Doomsday plot leaks are ..."
+[L85] }
+Full entry omitted because the tool response token budget was exhausted.
+
+[114] assistant (thoughts, 0 chars)
+(no text content)
+
+[115] assistant (text, 235 chars)
+The X post does contain an embedded video, and I’ve confirmed its November 3 posting date from the page itself. I’m checking whether the clip is genuinely new footage or another misleading “leaked” upload before calling it the trailer.
+
+[116] assistant (code, 670 chars)
+{"path":"/TinyFish/run_web_automation","args":{"url":"https://x.com/Professor1Tweet/status/2117621943935594687","goal":"Open the embedded video in the November 3, 2026 post 'Avengers: Doomsday Final Trailer Leaked'. Inspect the video visually, determine whether it contains a full actual trailer, a brief older clip, a meme, or a fan edit; report runtime and concrete visible observations. Do not claim authenticity beyond what you can see. Do not post anything or interact with account settings.","browser_profile":"lite","agent_config":{"max_steps":30,"max_duration_seconds":90},"capture_config":{"screenshots":true},"link_id":"link_6aacfc4f3020819191ad9a1c2282ee46"}}
+
+[117] tool (code, 554 chars)
+{"status":"pending","upsell_enabled":true,"runId":"34e6a1d0-4980-48d7-847d-9435f66aa95a","goal":"Open the embedded video in the November 3, 2026 post 'Avengers: Doomsday Final Trailer Leaked'. Inspect the video visually, determine whether it contains a full actual trailer, a brief older clip, a meme, or a fan edit; report runtime and concrete visible observations. Do not claim authenticity beyond what you can see. Do not post anything or interact with account settings.","runUrl":"https://agent.tinyfish.ai/runs/34e6a1d0-4980-48d7-847d-9435f66aa95a"}
+
+[118] assistant (code, 140 chars)
+{"path":"/TinyFish/wait_for_run","args":{"run_id":"34e6a1d0-4980-48d7-847d-9435f66aa95a","link_id":"link_6aacfc4f3020819191ad9a1c2282ee46"}}
+
+[119] tool (code, 0 chars)
+(no text content)
+
+[120] assistant (code, 140 chars)
+{"path":"/TinyFish/wait_for_run","args":{"run_id":"34e6a1d0-4980-48d7-847d-9435f66aa95a","link_id":"link_6aacfc4f3020819191ad9a1c2282ee46"}}
+
+[121] tool (code, 0 chars)
+(no text content)
+
+[122] assistant (thoughts, 0 chars)
+(no text content)
+
+[123] assistant (text, 0 chars)
+(no text content)
+
+[124] tool (text, 0 chars)
+(no text content)
+
+[125] assistant (thoughts, 0 chars)
+(no text content)
+
+[126] assistant (thoughts, 0 chars)
+(no text content)
+
+[127] assistant (code, 365 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_search","args":{"query":"site:x.com \"Doomsday\" \"trailer\" \"leak\" \"Nov 3, 2026\"","objective":"Find any source from Nov 3 2026 that directly hosts authentic new Avengers Doomsday trailer footage rather than rumors or misleading posts","sources":["web","news"],"limit":20,"domainTools":false}}
+
+[128] assistant (code, 372 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_search","args":{"query":"\"AVENGERS DOOMSDAY\" \"LEAKED\" \"TODAY\" trailer video november 3","objective":"Find any source from Nov 3 2026 that directly hosts authentic new Avengers Doomsday trailer footage rather than rumors or misleading posts","sources":["web","news"],"limit":20,"domainTools":false}}
+
+[129] assistant (code, 372 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_search","args":{"query":"\"Avengers Doomsday\" \"full trailer leak\" \"November\" 2026 watch","objective":"Find any source from Nov 3 2026 that directly hosts authentic new Avengers Doomsday trailer footage rather than rumors or misleading posts","sources":["web","news"],"limit":20,"domainTools":false}}
+
+[130] tool (code, 0 chars)
+(no text content)
+
+[131] tool (code, 0 chars)
+(no text content)
+
+[132] tool (code, 0 chars)
+(no text content)
+
+[133] assistant (thoughts, 0 chars)
+(no text content)
+
+[134] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[135] assistant (text, 1102 chars)
+Found a direct video post dated **November 3, 2026, at 2:16 PM**, labeled *Avengers: Doomsday Final Trailer Leaked*.
+
+<Link url="https://x.com/Professor1Tweet/status/2117621943935594687" title="Watch the alleged leaked trailer on X"/>
+
+It's the first same-day video post I've located that matches what you're describing. The upload is real; whether the footage is authentic is still unconfirmed.
+
+**Verification update:** The X video is not a reliable copy. The account is labeled as a fan account, and a viewer specifically identified AI-generated material and reused clips. The video player also failed to report a usable duration.
+
+I'm ruling that upload out as an authentic leak rather than passing it off as the real thing.
+
+A November 3 update from a Marvel news tracker also reports that the next full trailer has not surfaced, with November 10–25 still only a rumored release window. <Cite ref="turn542333search0"/>
+
+**Result:** I haven't found an authentic, playable November 3 leak. I found a same-day upload, investigated it, and ruled it out. I won't claim that's the trailer you asked for.
+
+== OFF-CURRENT-BRANCH MESSAGES ==
+0 messages (verified: no substantive user/assistant message exists outside the current branch)

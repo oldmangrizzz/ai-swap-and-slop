@@ -10,8 +10,8 @@ externally checkable claim tested against primary sources. This is the final rep
 FULL-READ VERIFIED — all 26 conversation exports (~4.5 MB, 4,568+ turns) read end-to-end by
 26 dedicated auditors plus two first-hand parent reads (the legal-core Correspondence and
 Epstein conversations). Every one of the 608 surviving catalog quotes (609 pre-correction)
-verified verbatim against its
-corpus file by substring assertion after writing; every load-bearing external claim tested
+was verified verbatim against its
+corpus file by substring assertion after writing; every load-bearing external claim was tested
 against primary sources — actual court orders (Altman dismissal Doc. 160, read as PDF),
 actual earnings transcripts (Reddit Q1 2025, downloaded and searched), actual video
 captions (pulled cue-by-cue with yt-dlp), the Clay Mathematics Institute's own

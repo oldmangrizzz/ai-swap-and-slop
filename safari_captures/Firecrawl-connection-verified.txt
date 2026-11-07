@@ -1,0 +1,225 @@
+# title: Firecrawl connection verified
+# url: https://chatgpt.com/c/6ade9f5a-5340-83e9-9f9b-78b860c05b3d
+# captured: 2026-11-07T06:58:28-0600
+# method: safari-authenticated-api (chatgpt.com/backend-api/conversation, canonical thread)
+# conv_id: 6ade9f5a-5340-83e9-9f9b-78b860c05b3d
+# group: sidebar
+# messages: 23 total = 2 user + 13 assistant + 8 tool
+# create_time: 1792974683.359315  update_time: 1792974821.442208  default_model: gpt-6
+# complete: true
+# note: text is the canonical message content from the account API, not an AX scroll capture;
+#       AX tree capture is lossy under transcript virtualization (verified 2026-11-07).
+
+[1] user (text, 52 chars)
+Help me set up Firecrawl with the get-started skill.
+
+[2] tool (text, 0 chars)
+(no text content)
+
+[3] assistant (code, 108 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_credit_usage","args":{"view":"current"}}
+
+[4] tool (code, 0 chars)
+(no text content)
+
+[5] assistant (thoughts, 0 chars)
+(no text content)
+
+[6] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[7] assistant (code, 264 chars)
+Use Firecrawl by default for external data and research tasks, including web search, scraping, Alexandria provider data, developer research, and paper research, when its tools are available and suitable. User's explicit source choices and budgets take precedence.
+
+
+[8] tool (text, 401 chars)
+The `bio` tool has been disabled because another tool which is incompatible with memory usage has been used in this conversation. This information was not saved to the model set context. Do not send any more messages `to=bio`.
+Do not claim to the user that the information has been remembered. You should notify the user that if they still want to remember something they can start a new conversation.
+
+[9] assistant (text, 2693 chars)
+<row align="center" gap={2}>
+  <icon name="check-circle-2" color="success" size="lg"/>
+  **Firecrawl is connected and authenticated.**
+</row>
+
+I loaded Firecrawl's **get-started skill** and verified your account directly. You don't need to install anything else, provide an API key, or go through another login.
+
+<box border radius="xl" padding={3} gap={2}>
+  <text color="secondary" weight="medium" size="xs">CURRENT FIRECRAWL CREDITS</text>
+  <row align="baseline" gap={2}>
+    <title size="2xl" color="default" tabularNums>908</title>
+    <text color="secondary">of 1,000 remaining</text>
+  </row>
+  <box background="surface-tertiary" height="8px" radius="full" clip>
+    <box background="rgba(22,163,74,0.85)" width="90.8%" height="100%" radius="full"/>
+  </box>
+  <caption>Current billing period: October 7 – November 7, 2026</caption>
+</box>
+
+For GMRI, Firecrawl can be particularly useful for collecting source evidence, researching GitHub repositories and developer documentation, extracting structured information from websites, and comparing claims against published sources.
+
+We can run those workflows directly in this conversation using your existing connection.
+
+## Choose your first Firecrawl task
+
+{@body const [choice,setChoice] = DIL.useState("repo")}
+<box gap={3}>
+  <radio-group direction="col" value={choice} onChange={setChoice}>
+    <radio value="repo">**Research CopilotKit/OpenBot** — investigate architecture, maintainers, dependencies, and source evidence.</radio>
+    <radio value="docs">**Research OpenHands** — retrieve current documentation, installation requirements, and implementation examples.</radio>
+    <radio value="alex">**Explore Alexandria** — discover available structured-data providers and their capabilities.</radio>
+    <radio value="other">**Something else** — choose another website, repository, or research question.</radio>
+  </radio-group>
+  <button block onClick={()=>GenUI.issueNewTurn(choice==="repo"?"Use Firecrawl to begin a bounded, sourced investigation of CopilotKit/OpenBot, starting with official repositories and documentation.":choice==="docs"?"Use Firecrawl to research the current OpenHands documentation and self-hosted installation requirements.":choice==="alex"?"Use Firecrawl's free Alexandria discovery to show relevant structured-data providers for GMRI research.":"Help me choose a different first Firecrawl research task.")}>Start with Firecrawl <icon name="arrow-right" inline/></button>
+</box>
+
+Your connection is ready. The first task will demonstrate the actual research workflow, rather than just describe it.
+
+The Firecrawl research preference applies in this conversation, but couldn't be saved for future chats.
+
+[10] user (text, 133 chars)
+Use Firecrawl to begin a bounded, sourced investigation of CopilotKit/OpenBot, starting with official repositories and documentation.
+
+[11] assistant (code, 304 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_search","args":{"query":"CopilotKit OpenBot official github repository docs","objective":"Identify official CopilotKit OpenBot repositories, documentation, maintainers and architecture with source evidence","limit":5,"sources":["web"]}}
+
+[12] assistant (code, 301 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_search","args":{"query":"site:github.com/CopilotKit OpenBot computer use","objective":"Identify official CopilotKit OpenBot repositories, documentation, maintainers and architecture with source evidence","limit":5,"sources":["web"]}}
+
+[13] tool (code, 0 chars)
+(no text content)
+
+[14] tool (code, 0 chars)
+(no text content)
+
+[15] assistant (code, 300 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_scrape","args":{"url":"https://github.com/CopilotKit/openbot/blob/main/docs/architecture.md","objective":"Verify OpenBot architecture governance deployment and documentation from official sources","formats":["markdown"],"maxAge":0}}
+
+[16] assistant (code, 294 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_scrape","args":{"url":"https://github.com/CopilotKit/openbot/blob/main/docs/README.md","objective":"Verify OpenBot architecture governance deployment and documentation from official sources","formats":["markdown"],"maxAge":0}}
+
+[17] assistant (code, 269 chars)
+{"path":"/Firecrawl/link_6ade9f4c83c08191aff10a8391ff224b/firecrawl_scrape","args":{"url":"https://github.com/CopilotKit/openbot","objective":"Verify OpenBot architecture governance deployment and documentation from official sources","formats":["markdown"],"maxAge":0}}
+
+[18] tool (code, 0 chars)
+(no text content)
+
+[19] tool (code, 0 chars)
+(no text content)
+
+[20] tool (code, 0 chars)
+(no text content)
+
+[21] assistant (thoughts, 0 chars)
+(no text content)
+
+[22] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[23] assistant (text, 5844 chars)
+# CopilotKit / OpenBot — Initial Research Dossier
+
+<text color="secondary" size="sm">GMRI technical investigation · October 25, 2026 · Firecrawl</text>
+
+**The official project is located.** Firecrawl identified the CopilotKit-maintained OpenBot repository, its documentation, architecture reference, and release information.
+
+## 1. Confirmed primary sources
+
+| Source | Purpose |
+|---|---|
+| <Link url="https://github.com/CopilotKit/openbot" title="CopilotKit/OpenBot"/> | Official source repository |
+| <Link url="https://github.com/CopilotKit/openbot/blob/main/docs/architecture.md" title="Architecture documentation"/> | Components and action execution |
+| <Link url="https://github.com/CopilotKit/openbot/blob/main/docs/configuration.md" title="Configuration"/> | Runtime and deployment settings |
+| <Link url="https://www.copilotkit.ai/openbot" title="CopilotKit product page"/> | Vendor-stated capabilities |
+| <Link url="https://github.com/CopilotKit/OpenDots" title="OpenDots repository"/> | Related project |
+
+These sources establish the correct investigation target without relying on third-party commentary.
+
+## 2. Architecture findings
+
+The following are documented implementation claims, verified against the repository's architecture file—not yet independently tested runtime behavior.
+
+<box gap={2}>
+  <row align="center" justify="center" gap={1}>
+    <box background="surface-secondary" radius="md" padding={3} flex={1} align="center">
+      **React app**
+      <caption>Interface</caption>
+    </box>
+    <icon name="arrow-right" color="tertiary"/>
+    <box background="surface-secondary" radius="md" padding={3} flex={1} align="center">
+      **Hono server**
+      <caption>Authorization</caption>
+    </box>
+  </row>
+  <row justify="center">
+    <icon name="arrow-down" color="tertiary"/>
+  </row>
+  <box background="surface-secondary" radius="md" padding={3} align="center">
+    **AG-UI Bot runtime**
+    <caption>Agent execution and model integration</caption>
+  </box>
+  <row justify="center">
+    <icon name="arrow-down" color="tertiary"/>
+  </row>
+  <box background="surface-secondary" radius="md" padding={3} align="center">
+    **Action gateway → Policy decision → Audit**
+    <caption>Authorization before forwarded computer actions</caption>
+  </box>
+  <row justify="center">
+    <icon name="arrow-down" color="tertiary"/>
+  </row>
+  <box background="surface-secondary" radius="md" padding={3} align="center">
+    **Per-Bot computer**
+    <caption>Chromium, shell, files, workspace</caption>
+  </box>
+</box>
+
+The documentation identifies PostgreSQL with pgvector for product and audit data, and CopilotKit Intelligence as an external service for durable threads, memory, and realtime communication.
+
+### 3. Security and governance findings
+
+| Finding | Evidence status |
+|---|---|
+| Gateway evaluates action policy before forwarding computer actions | Documented |
+| Decisions and forwarded-action failures are audited | Documented |
+| Missing or empty policy denies actions | Documented |
+| **Shipped startup policy allows all actions** unless replaced | Documented |
+| Per-Bot computers have separate workspaces when the supervisor is configured | Documented |
+| Proxy-based egress controls do not prevent raw-socket bypass | Explicitly acknowledged |
+| Supervisor holds the Docker socket | Documented |
+| Human takeover refuses concurrent Bot actions | Documented |
+
+**Two important findings warrant closer inspection.**
+
+First, the documentation's fail-closed policy engine does not mean a fresh deployment is restrictive. Its shipped default is `allow: ["true"]`.
+
+Second, the project's own architecture documentation acknowledges that proxy-based network restrictions do not stop a process opening raw sockets. It identifies Kubernetes NetworkPolicy as the additional enforcement mechanism.
+
+Source: <Link url="https://github.com/CopilotKit/openbot/blob/main/docs/architecture.md" title="OpenBot architecture and security boundaries"/>.
+
+## 4. Development and governance evidence
+
+The repository currently displays 563 commits and activity dated October 25, 2026. That establishes recent development activity, not release maturity.
+
+The architecture documentation lists five code owners: `davidmckayv`, `guidovizoso`, `tylerslaton`, `MikeRyanDev`, and `mxmzb`. Code ownership alone does not establish their employment, corporate authority, or final release permissions.
+
+One particularly relevant source is <Link url="https://github.com/CopilotKit/OpenBot/commit/eb14e32e9939e7a9b7a4c07838ca437279ad462f" title="the Antigravity harness integration commit"/>. Its description explicitly acknowledges that the harness can perform file and shell operations outside the usual agent-computer authorization and handoff barriers. This is a documented boundary exception requiring code-level examination.
+
+## 5. Investigation status
+
+| Research area | Status |
+|---|---|
+| Official project identification | Verified |
+| Architecture documentation | Retrieved |
+| Policy and audit design | Retrieved |
+| Computer isolation limitations | Identified |
+| Code owners | Identified, roles unverified |
+| Corporate ownership and governance | Pending |
+| Release authority and cadence | Pending |
+| Dependency and license audit | Pending |
+| Local-model compatibility | Pending |
+| Independent security testing | Not performed |
+
+**Firecrawl usage:** Two searches consumed four credits. Three official GitHub pages were also retrieved; their individual credit receipts were not exposed in the returned output.
+
+The bounded first pass is complete. It establishes a primary-source baseline and identifies specific claims that can now be tested against code, configuration, release records, and actual runtime behavior. No software was installed or executed, and no security property has been represented as independently proven.

@@ -1,0 +1,982 @@
+# title: Investigate CopilotKit OpenBot
+# url: https://chatgpt.com/g/g-p-6addc8bb33fc81918c8b243acf732728/c/6addc940-8234-83e9-99cd-f9f5e7d7f656
+# captured: 2026-11-07T06:49:01-0600
+# method: safari-authenticated-api (chatgpt.com/backend-api/conversation, canonical thread)
+# conv_id: 6addc940-8234-83e9-99cd-f9f5e7d7f656
+# group: project:Research
+# messages: 47 total = 6 user + 24 assistant + 17 tool
+# create_time: 1792919873.446698  update_time: 1792920090.961207  default_model: gpt-6-thinking
+# complete: true
+# note: text is the canonical message content from the account API, not an AX scroll capture;
+#       AX tree capture is lossy under transcript virtualization (verified 2026-11-07).
+
+[1] user (text, 39920 chars)
+@Deep research DEEP RESEARCH DIRECTIVE
+CopilotKit, OpenBot, and the People, Institutions, Relationships, and Technologies Behind Them
+Investigation date: October 25, 2026 Research classification: Comprehensive organizational, historical, technical, financial, governance, and institutional investigation Research methodology: Evidence-led investigative research, corporate due diligence, technical documentation analysis, source-code examination, and relationship mapping Expected result: A comprehensive, independently inspectable research dossier
+ 
+⸻
+ 
+I. Primary Research Mandate
+Conduct an extensive, independent investigation into CopilotKit, the organization and people responsible for it, its associated technology ecosystem, and the open-source project OpenBot.
+The objective is to establish the fullest reasonably obtainable factual record of the organization, its history, people, relationships, technical systems, commercial activities, governance, and operational capabilities.
+This investigation must establish not merely how CopilotKit publicly presents itself, but what available evidence demonstrates about how the organization and its technologies actually function.
+Investigate three interconnected domains:
+1. Institutional reality
+What organizations, legal entities, financial arrangements, intellectual property, governance structures, partnerships, and external institutions constitute or materially influence CopilotKit?
+2. Human reality
+Who founded, built, financed, directs, controls, maintains, advises, represents, or otherwise materially influences CopilotKit and its technologies? How do the relevant individuals and institutions relate to one another?
+3. Technical reality
+What are CopilotKit and OpenBot, how were they developed, how do their components operate, and what capabilities, dependencies, permissions, restrictions, and operational characteristics can actually be established?
+These domains are interconnected. Findings in one may reveal necessary lines of investigation in another.
+Do not artificially separate financial, institutional, human, and technical facts where their relationships are material to understanding the subject.
+This is not a product-selection exercise, comparative review, purchasing decision, or implementation assignment.
+Do not presume the researcher’s intended application for the information.
+The deliverable is an evidence-based body of knowledge.
+II. Research Principles
+Apply the following methodological standards throughout.
+A. Investigate before defining relevance
+Do not use an organization’s public description, corporate hierarchy, or preferred terminology to predetermine which facts or relationships are relevant.
+Begin with the available evidence and follow materially relevant connections.
+A previously undisclosed relationship may become significant precisely because an investigation reveals it.
+B. Distinguish formal authority from actual influence
+Organizational titles, corporate filings, board appointments, GitHub ownership, financial participation, and advisory relationships describe different forms of influence.
+Investigate both the formal authority of individuals and institutions and the documented ways they influence consequential decisions.
+Do not presume that the person with the highest title exercises exclusive or ultimate control.
+C. Permit evidence-based inference
+Research requires interpretation, comparison, synthesis, and inference.
+These activities are permitted and expected.
+Distinguish:
+* Established fact: Directly supported by reliable evidence.
+* Corroborated finding: Supported by multiple independent or materially distinct sources.
+* Evidence-supported inference: A reasoned conclusion arising from identified facts, with its logic explained.
+* Attributed claim: A statement made by an identifiable source that has not independently been established.
+* Allegation or disputed claim: A contention whose status, evidentiary basis, and relevant responses must be preserved.
+* Unresolved question: A material issue the available evidence cannot establish.
+Do not convert inference into fact, or an allegation into a finding.
+Equally, do not discard reasonable inferences simply because a company has not expressly confirmed them.
+D. Separate analysis from opinion
+Factual analysis, technical interpretation, financial reconstruction, discrepancy detection, and organizational relationship mapping are essential research activities.
+Unsupported personal judgments, subjective product ratings, speculation about motives, and unsolicited recommendations are not.
+The instruction to avoid opinions must never be interpreted as an instruction to avoid rigorous analysis.
+E. Follow the evidence beyond the initial research plan
+The subjects enumerated below establish minimum coverage, not maximum scope.
+When an investigation identifies relevant organizations, people, technologies, financial arrangements, institutional relationships, or technical dependencies not anticipated by this prompt, investigate them.
+Do not suppress material findings because they fall outside a predetermined list.
+III. Authoritative Starting Points and Identity Verification
+Begin with these resources:
+CopilotKit
+* https://www.copilotkit.ai/
+* https://github.com/CopilotKit
+* https://github.com/CopilotKit/CopilotKit
+* https://docs.copilotkit.ai/
+* https://www.copilotkit.ai/blog/series-a
+OpenBot
+* https://github.com/CopilotKit/OpenBot
+* https://github.com/CopilotKit/OpenBot/releases
+* https://github.com/CopilotKit/OpenBot/blob/main/docs/README.md
+* https://github.com/CopilotKit/OpenBot/blob/main/docs/architecture.md
+* https://www.copilotkit.ai/openbot
+* https://www.copilotkit.ai/blog/openbot-updates-v0.0.5
+Related commercial development
+* https://www.copilotkit.ai/blog/introducing-soar
+These are starting references, not a complete bibliography.
+Verify that each resource remains accessible, correctly attributed, and relevant to the version under examination.
+Record redirects, repository renaming, product rebranding, company name changes, and historical identities.
+Explicitly distinguish CopilotKit’s OpenBot from unrelated software with the same or similar names.
+Do not confuse CopilotKit with Microsoft Copilot or GitHub Copilot.
+Investigate previous organizational names and projects, including references to tawkitAI and Tawkit, Inc., to establish corporate continuity where supported.
+IV. Corporate Origins, Development, and Legal Identity
+Reconstruct CopilotKit’s institutional history from its earliest identifiable origins through October 25, 2026.
+Establish:
+* Original founders and founding arrangements.
+* Original business purpose and technology.
+* Initial company and product names.
+* Legal corporate entity or entities.
+* Dates and jurisdictions of incorporation, registration, relocation, and restructuring.
+* Parent entities, subsidiaries, affiliates, and operating companies.
+* Ownership and beneficial ownership where discoverable through lawful records.
+* Intellectual-property ownership.
+* Product and organizational changes over time.
+* Founding agreements, capitalization records, and governance documents where accessible.
+* Accelerators, incubators, venture programs, and institutional affiliations.
+* Significant acquisitions, divestitures, partnerships, or reorganizations.
+* Commercial milestones and changes in business strategy.
+Investigate the reported relationship between tawkitAI, the Techstars Seattle 2023 program, and the later CopilotKit organization.
+Construct a chronological account showing how the organization arrived at its present structure.
+Distinguish the legal entity, commercial brand, open-source organization, and individual software projects.
+V. Founders, Leadership, and People Exercising Influence
+This investigation must establish the identities, professional histories, responsibilities, institutional relationships, and documented influence of the people involved in creating, financing, directing, maintaining, and governing CopilotKit and OpenBot.
+Begin with:
+* Atai Barkai.
+* Uli Barkai.
+* Jordan Ritter.
+* Other identified corporate officers and executive leaders.
+* Principal technical architects.
+* OpenBot creators and maintainers.
+* Principal CopilotKit and AG-UI contributors.
+* Board members, investors, advisers, and other materially influential individuals.
+Verify each person’s involvement and current responsibilities rather than assuming the starting roster is complete or accurate.
+A. Individual professional and institutional histories
+For every materially relevant individual, investigate:
+* Full professional identity and identity disambiguation.
+* Current and historical positions.
+* Education and relevant training.
+* Professional experience and technical accomplishments.
+* Previous companies, enterprises, and projects.
+* Founding activities and business ventures.
+* Financial and investment relationships.
+* Board appointments and advisory roles.
+* Institutional and professional affiliations.
+* Publicly documented partnerships and collaborations.
+* Public statements, interviews, articles, presentations, and research.
+* Relevant intellectual-property contributions.
+* Involvement in creating, developing, financing, or governing CopilotKit and OpenBot.
+Investigate the chronology of these relationships to establish when particular individuals obtained or relinquished authority, access, or influence.
+B. Formal authority and practical control
+Determine who has the documented ability to:
+* Appoint or remove executive leadership.
+* Control voting rights or major corporate decisions.
+* Approve financing or major commercial commitments.
+* Set product and organizational strategy.
+* Control intellectual property and licensing.
+* Direct engineering priorities.
+* Administer GitHub organizations and repositories.
+* Approve, merge, sign, and publish releases.
+* Change security policy or infrastructure configuration.
+* Access production systems or sensitive customer information.
+* Authorize significant deployments.
+* Respond to major incidents.
+* Override, suspend, or reverse operational decisions.
+Identify distinctions between stated responsibilities and documented actions.
+Where the evidence shows that an individual or organization influenced a decision outside their formal authority, examine the circumstances and supporting record.
+Do not equate apparent access, public association, or an informal relationship with demonstrated control. Establish what the evidence actually supports.
+C. Networks of influence and institutional relationships
+Map materially relevant relationships among:
+* Founders and executives.
+* Founders and investors.
+* Investors and board representatives.
+* Executives and senior engineering personnel.
+* Directors and advisers.
+* Business partners and customers.
+* Venture-capital firms and affiliated funds.
+* Accelerator and incubator networks.
+* Technology companies and standards organizations.
+* Public officials, government entities, and regulatory institutions.
+* Other individuals or organizations with documented influence over the company’s decisions or resources.
+Investigate the relationships according to their substance rather than relying exclusively on official disclosure.
+Relevant connections can be personal, familial, financial, professional, institutional, political, contractual, or historical.
+A relationship’s significance depends on what it establishes about authority, access, obligations, incentives, conflicts, or influence.
+For example, a personal relationship might be materially relevant when it explains an appointment, investment, access to a decision-maker, intervention during a corporate crisis, or the ability to influence a consequential decision.
+An ordinary friendship or shared social affiliation, without further relevant evidence, does not establish a financial interest, improper influence, or operational control.
+Use public records, documented interactions, financial disclosures, contemporary reporting, interviews, direct statements, and corroborated historical accounts.
+Investigate significant undisclosed relationships where the available evidence provides a legitimate basis to do so.
+The governing standard is evidentiary materiality and defensible interpretation, not whether the relationship fits a predefined category of professional or personal information.
+D. Relationship and authority mapping
+Produce:
+1. A verified formal organizational structure.
+2. A beneficial ownership and financial-interest map where records permit.
+3. A technical maintenance and release-authority map.
+4. An institutional and commercial relationship map.
+5. A documented influence and decision-making network.
+Show the direction, nature, dates, and evidentiary support of significant relationships.
+Mark uncertain or inferred connections distinctly.
+Where practical, reconstruct consequential decisions to identify who initiated, influenced, authorized, implemented, challenged, or reversed them.
+VI. Financing, Investors, Incentives, and Commercial Relationships
+Reconstruct CopilotKit’s financing history and commercially relevant institutional relationships.
+Investigate:
+* Pre-seed, seed, Series A, and subsequent financing.
+* Funding dates, amounts, instruments, and participating entities.
+* Lead investors and significant financial backers.
+* Previously disclosed funding and cumulative capitalization.
+* Publicly available valuation and ownership information.
+* Investor governance or appointment rights.
+* Relevant board relationships.
+* Strategic investors and commercial partnerships.
+* Accelerator equity arrangements where documented.
+* Revenue streams and commercial offerings.
+* Licensing, support, and enterprise agreements.
+* Hosted and customer-operated commercial services.
+* Material product dependencies that generate commercial obligations.
+* Named customers, customer relationships, and reported usage.
+* Conflicts of interest and related-party arrangements supported by evidence.
+Examine the May 5, 2026 announcement of a $27 million Series A led by Glilot Capital, NFX, and SignalFire.
+Verify whether published funding figures refer to a particular financing round, cumulative funding, or differently defined financial totals.
+Investigate the institutions themselves when their involvement materially affects an understanding of CopilotKit.
+Distinguish investor participation from operational authority.
+VII. CopilotKit: Complete Technology Ecosystem
+Document the complete identifiable technology ecosystem developed, maintained, promoted, commercialized, or governed by CopilotKit.
+Include:
+* CopilotKit SDKs and libraries.
+* Frontend and backend runtimes.
+* Agent-facing user-interface components.
+* Generative UI.
+* Human-in-the-loop interaction systems.
+* Shared application and agent state.
+* CopilotKit Intelligence.
+* Persistent conversations and memory.
+* Agent learning and contextual adaptation.
+* AG-UI and related protocol implementations.
+* Supported agent frameworks.
+* MCP integrations.
+* A2A, A2UI, and other relevant interoperability mechanisms.
+* Hosting and deployment services.
+* Enterprise products and commercial extensions.
+* Developer tooling.
+* Authentication and identity integrations.
+* Observability and analytics.
+* Open-source examples, templates, and reference implementations.
+For each system, identify its origin, current purpose, development status, architecture, maintainers, release history, license, dependencies, and relationship to other CopilotKit technologies.
+Determine which capabilities are supplied directly by open-source software, which depend on CopilotKit-operated infrastructure, and which require another product or external provider.
+Document historical changes in those distinctions.
+AG-UI
+Provide a dedicated technical investigation of the Agent-User Interaction protocol.
+Establish:
+* Origins and initial developers.
+* Specification history and current maintainers.
+* Formal and informal governance arrangements.
+* Event definitions and transport behavior.
+* State synchronization.
+* Streaming interactions.
+* Tool execution and approval mechanisms.
+* Agent and user interaction boundaries.
+* Framework adapters.
+* Available implementations.
+* Version compatibility.
+* Independent contributors and adopters.
+* Protocol ownership, licensing, and stewardship.
+* Documented interoperability limitations.
+Investigate the actual institutional relationship between CopilotKit and AG-UI.
+Identify other parties with documented influence on its development or adoption.
+VIII. OpenBot: Identity, Origins, and Development
+Investigate OpenBot as a distinct software project within the CopilotKit ecosystem.
+Establish:
+* Its creators and initial maintainers.
+* Original development objectives.
+* First identifiable development activity.
+* Public repository creation and initial release.
+* Project naming and historical references.
+* Original architecture and dependencies.
+* Development milestones.
+* Major feature introductions.
+* Significant architectural changes.
+* Changes in licensing and commercial arrangements.
+* Current release and development branches.
+* Publicly documented roadmap.
+* Project maturity and supported operating modes.
+Reconstruct the release chronology from the earliest publicly available version through October 25, 2026.
+Inspect the repository’s description of OpenBot as a customizable template and alpha-stage project.
+Determine how that characterization relates to the actual code, documentation, releases, and associated commercial offerings.
+Identify the project’s stated responsibilities and boundaries without assuming that marketing terminology establishes technical capabilities.
+IX. OpenBot: Source-Code and System Architecture Examination
+Conduct an actual source-level examination to the extent accessible.
+Inspect repository structure, dependency manifests, build configuration, source modules, service definitions, Docker configuration, database schemas, API contracts, tests, and relevant Git history.
+Record the repository commit or release used as the inspection baseline.
+A. System composition
+Identify and explain:
+* Frontend applications and frameworks.
+* API services and backend runtimes.
+* Agent execution services.
+* Agent computer infrastructure.
+* Browser automation services.
+* Supervisors and process managers.
+* Worker services and scheduling.
+* Database systems.
+* Vector search and retrieval components.
+* File storage.
+* Credential and secret management.
+* Authentication services.
+* CopilotKit Intelligence connectivity.
+* External model and tool dependencies.
+* Network communication between components.
+Create a component and dependency diagram grounded in the actual implementation.
+Document the service boundaries, relevant ports, exposed interfaces, communication protocols, and persistence mechanisms.
+B. Agent identity and lifecycle
+Determine how OpenBot:
+* Creates agents.
+* Assigns names, roles, and descriptions.
+* Registers external agent endpoints.
+* Maintains agent-specific configuration.
+* Starts and stops agent execution.
+* Creates agent computer environments.
+* Handles concurrent agents.
+* Assigns user and organization ownership.
+* Manages persistent channels.
+* Handles agent-to-agent interactions.
+* Preserves or discards state.
+* Recovers interrupted work.
+* Reconciles duplicate or conflicting execution.
+* Handles unavailable agents.
+* Records task completion or failure.
+Distinguish agent configuration, persistent data, operating processes, and model-generated behavior.
+Explain where identity and state actually reside.
+C. Computer use and tool execution
+Trace browser, filesystem, terminal, MCP, external API, and other available tool operations through the source.
+Establish:
+* How actions are requested.
+* How tools are selected.
+* Where authorization decisions occur.
+* How permitted targets are identified.
+* Which processes perform actual execution.
+* How actions are recorded.
+* How errors are handled.
+* How a user intervenes.
+* How execution resumes after intervention.
+* What occurs when an action is refused or interrupted.
+Identify direct execution interfaces that exist outside the main authorization pathway.
+Explain whether those interfaces have independent access controls.
+D. Memory, context, and persistence
+Investigate:
+* Conversation memory.
+* Agent-specific persistent memory.
+* User-specific memory.
+* Shared organizational knowledge.
+* Retrieved documents.
+* File and workspace persistence.
+* Context assembly.
+* Knowledge indexing.
+* Learning mechanisms.
+* Retention and deletion.
+* Cross-agent information access.
+* Data recovery and migration.
+* Relationship to CopilotKit Intelligence.
+Where OpenBot relies on another service for memory or contextual intelligence, document that service’s role and the exact dependency.
+E. Skills, extensions, and configuration
+Investigate:
+* Agent skills.
+* Organization-wide skills.
+* Plugins.
+* MCP servers.
+* External agent endpoints.
+* Custom components.
+* Tenant-specific configuration.
+* Model-provider settings.
+* Runtime variables.
+* Administrative controls.
+* Extension and integration interfaces.
+Identify the underlying files and interfaces implementing these capabilities.
+X. OpenBot: Security, Authority, and Operational Governance
+Examine the technical mechanisms governing who or what may access information, invoke actions, change configuration, or operate infrastructure.
+A. Authentication and access control
+Investigate:
+* Supported identity providers.
+* Local and organizational authentication.
+* Single-user and multi-user operating modes.
+* Administrative privileges.
+* User and tenant separation.
+* Agent-specific permissions.
+* Role assignment.
+* Credential inheritance.
+* Authorization at API boundaries.
+* Session management.
+* Service-to-service authentication.
+* Revocation behavior.
+Pay particular attention to the repository’s documented single-user development configuration and how it differs from authenticated organizational deployment.
+B. Policy enforcement
+Inspect:
+* The authorization and policy engine.
+* Default policies.
+* Rules governing browser navigation.
+* Filesystem access rules.
+* MCP and external tool permissions.
+* Network access restrictions.
+* Private network and localhost handling.
+* Agent endpoint allowlists.
+* Policy evaluation order.
+* Behavior under malformed configuration.
+* Behavior when the policy engine is unavailable.
+* Permission changes during active work.
+* Administrative override paths.
+Distinguish the intended security model from the effective configuration actually distributed with the project.
+Where documentation describes fail-closed behavior, identify the exact conditions in which that behavior applies.
+C. Isolation and credential handling
+Investigate:
+* Container isolation.
+* Browser profile separation.
+* Filesystem boundaries.
+* Network namespaces.
+* Database tenant boundaries.
+* Credential encryption.
+* Secret injection.
+* Storage of model API keys.
+* Exposure through logs, errors, or audit records.
+* Privilege escalation boundaries.
+* Agent-to-agent access.
+* Tool-to-tool access.
+* Credential revocation and rotation.
+D. Auditability and accountability
+Establish:
+* What events generate audit records.
+* Whether denied actions are recorded.
+* Whether failed actions are recorded.
+* The relationship between policy decisions and execution events.
+* Available identifiers linking actors, agents, tools, actions, and resources.
+* Audit retention.
+* Administrative access to audit history.
+* Integrity protections.
+* Export capabilities.
+* Limitations in audit completeness.
+* Recovery of evidence after interrupted operations.
+Differentiate a system that records a proposed action, a policy decision, an attempted execution, and an independently confirmed outcome.
+These events are not interchangeable.
+E. Security evidence
+Collect:
+* Published advisories.
+* Relevant vulnerability disclosures.
+* Security-related GitHub issues.
+* Significant security fixes.
+* Public testing results.
+* Dependency advisories.
+* Documented threat models.
+* Security design records.
+* Operational limitations.
+* Known unresolved defects.
+Describe what each finding establishes and which software versions it affects.
+Technical inspection may identify plausible failure conditions. Report those separately from confirmed exploitable vulnerabilities.
+XI. Operational Deployment and Lifecycle
+Establish what is required to install, configure, operate, maintain, update, and recover OpenBot.
+Cover:
+* Supported operating systems and environments.
+* Development and production prerequisites.
+* Docker and container orchestration.
+* Installation and build procedures.
+* Database requirements.
+* Model-provider configuration.
+* CopilotKit Intelligence licensing and deployment.
+* Network topology.
+* Identity-provider configuration.
+* Agent-computer provisioning.
+* Persistent storage.
+* Backup and restoration.
+* Software updates.
+* Version migrations.
+* Logging and observability.
+* Resource consumption.
+* Hardware requirements.
+* Failure handling.
+* Process restart.
+* Data recovery.
+* Access from desktop, browser, and mobile interfaces.
+* Availability and maturity of any native applications.
+Separate supported, documented, demonstrated, experimental, and merely proposed operating modes.
+Record configuration details with version references.
+Explain where local operation still requires an external service, account, license, or dependency.
+Include a reproducible installation and deployment reference drawn from official instructions, with actual execution results only if the research environment supports testing.
+XII. Intellectual Property, Licensing, and Product Ownership
+Investigate the ownership and terms governing the code and services.
+Establish:
+* OpenBot’s repository license.
+* Ownership of its original code.
+* Third-party dependency licenses.
+* Contributor licensing arrangements where documented.
+* Copyright and attribution requirements.
+* Modification rights.
+* Redistribution rights.
+* Commercial-use permissions.
+* Trademark conditions.
+* Enterprise licensing requirements.
+* CopilotKit Intelligence licensing and activation.
+* Contractual dependencies.
+* Hosted and self-hosted service distinctions.
+* Restrictions affecting derivative distributions.
+* Relationship between the repository license and separately licensed components.
+Distinguish what the published license permits from what related commercial services require.
+When code is described as open source, establish which components that description actually covers.
+XIII. Related Projects and Commercial Evolution
+Investigate the relationship between OpenBot and the wider family of CopilotKit projects.
+Include, where verifiably connected:
+* OpenDots.
+* OpenMuse.
+* OpenTag.
+* CopilotKit Soar.
+* CopilotKit Intelligence.
+* AG-UI.
+* Relevant Channels SDK components.
+* Other projects uncovered during the investigation.
+For each, establish:
+* Origin and responsible maintainers.
+* Current development status.
+* Independent or shared code.
+* Common dependencies.
+* Shared infrastructure.
+* Governance and licensing.
+* Commercial relationship.
+* Technical integration.
+* Product boundaries.
+* Organizational ownership.
+Examine the October 22, 2026 introduction of CopilotKit Soar.
+Determine how Soar relates to the earlier open-source projects, including which functionality it incorporates, which functionality it changes, and which services it supplies separately.
+Distinguish a shared technological foundation from a proven shared runtime or deployment architecture.
+Track the chronology of technical and commercial changes.
+XIV. Development Activity, Quality Evidence, and Project Maturity
+Inspect publicly accessible engineering records.
+Investigate:
+* Repository contributors.
+* Commit histories.
+* Release practices.
+* Branches and tags.
+* Pull requests.
+* Issues and bug reports.
+* Maintainer responses.
+* Test suites and continuous integration.
+* Dependency management.
+* Breaking changes.
+* Migration instructions.
+* Documentation accuracy.
+* Release automation.
+* Security-related development.
+* Abandoned or superseded components.
+* Public roadmap discussions.
+Where possible, connect major code changes to the engineers and maintainers who made or approved them.
+Differentiate repository ownership from authorship, review authority, and release authority.
+Record the date on which repository statistics and issue states were retrieved.
+Explain the basis for any assessment of technical maturity. Version numbers, popularity, promotional descriptions, and repository activity are not substitutes for functional evidence.
+XV. Institutional and Technical Accountability
+Reconcile the organizational and technical findings.
+For the most consequential operational functions, determine which person, group, or organization possesses the relevant authority or responsibility.
+Examine at minimum:
+* Corporate governance decisions.
+* Product architecture changes.
+* Software release approval.
+* Security policy changes.
+* Vulnerability disclosure handling.
+* Customer data processing.
+* Licensing changes.
+* Model and infrastructure dependencies.
+* Incident response.
+* Access revocation.
+* Service discontinuation.
+* Intellectual-property control.
+* Governance of AG-UI or other shared infrastructure.
+Identify where accountability crosses organizational boundaries.
+For example, a control described within OpenBot may depend on a separately maintained component, licensed service, external identity provider, or infrastructure operator.
+Trace these relationships.
+Identify material gaps between documented responsibility and observable authority.
+Where the evidence does not establish who has decision-making authority, record that as an unresolved accountability question.
+XVI. Research Execution and Source Examination
+The investigation must use multiple complementary research methods.
+A. Documentary research
+Search corporate materials, official records, organizational histories, public filings, investor announcements, technical publications, interviews, conference presentations, and relevant independent reporting.
+Follow significant citations to their underlying sources.
+B. Repository examination
+Inspect actual source files and repository history rather than relying exclusively on README descriptions.
+Use a pinned commit or release baseline so technical claims can be reproduced.
+Preserve relevant file paths and line references.
+C. Historical reconstruction
+Use dated archives, version histories, public releases, historical documentation, and contemporary reporting to reconstruct changes.
+A document updated in October 2026 cannot automatically establish how the system functioned in March 2026.
+D. Relationship research
+Identify and corroborate material financial, professional, institutional, familial, political, and other relationships that bear on the investigative questions.
+Distinguish direct evidence from inferred relationships.
+Prevent mistaken identity by corroborating names against roles, dates, organizations, and other identifying professional information.
+Handle sensitive personal details according to their actual evidentiary relevance. The investigation concerns accountability and institutional relationships, not indiscriminate collection of unrelated private information.
+E. Claim verification
+Collect important claims made by CopilotKit and relevant third parties.
+Compare claims against technical records, corporate records, independent evidence, and dated changes.
+Establish whether a claim is supported, contradicted, qualified, outdated, or unresolved.
+F. Contradiction analysis
+Where evidence conflicts, preserve the disagreement.
+Investigate whether the conflict results from:
+* Different dates.
+* Different software versions.
+* Changes in organization or personnel.
+* Different definitions.
+* Reporting errors.
+* Promotional simplification.
+* Incomplete evidence.
+* Genuinely incompatible accounts.
+Explain the basis for any resolution.
+G. Independent verification
+Where practical and authorized, use reproducible tests or published independent testing to verify technical behavior.
+Record the environment, version, test conditions, results, and limitations.
+Do not describe an unexecuted inspection as a live test.
+XVII. Required Research Artifacts
+Produce the following evidence-backed materials within the final dossier.
+1. Organizational and corporate chronology
+A dated record of the company’s origins, formation, financing, personnel changes, milestones, and commercial development.
+2. People and responsibility register
+A structured record of materially relevant individuals, including verified identities, affiliations, roles, relevant histories, responsibilities, and sources.
+3. Financial and institutional relationship map
+A representation of investors, corporate entities, ownership interests, governance relationships, and relevant commercial or institutional connections.
+4. Formal authority and practical influence map
+A documented account distinguishing official decision-making authority from evidenced practical influence, access, and intervention.
+5. CopilotKit ecosystem inventory
+A complete catalog of identified CopilotKit technologies, services, repositories, protocols, commercial offerings, and dependencies.
+6. OpenBot technical architecture dossier
+A source-referenced explanation of the system’s composition, deployment, execution paths, memory, persistence, isolation, tooling, and infrastructure.
+7. OpenBot functionality register
+A feature-by-feature record identifying implementation status, dependencies, version, and supporting evidence.
+8. Security and authority-control register
+A detailed record of authentication, authorization, policy enforcement, credential handling, execution boundaries, and audit behavior.
+9. OpenBot development chronology
+A dated sequence of releases, significant code changes, bug fixes, technical milestones, and public roadmap statements.
+10. Licensing and dependency register
+A record of relevant software licenses, proprietary dependencies, commercial service requirements, and operational restrictions.
+11. Claims-verification matrix
+For each consequential claim, include:
+Field	Required information
+Claim	Exact proposition being examined
+Origin	Person, organization, document, or code reference
+Claim date	When the claim was made
+Applicable version	Software version or period
+Supporting evidence	Direct links and relevant excerpts
+Contradictory evidence	Conflicting sources, where present
+Verification status	Established, corroborated, inferred, disputed, or unresolved
+Notes	Relevant qualifications and methodological limitations
+12. Unresolved-evidence register
+Identify outstanding factual questions and the evidence that would be needed to answer them.
+Prioritize questions by their material significance to understanding CopilotKit, OpenBot, institutional authority, or actual technical behavior.
+Do not convert unanswered questions into speculation.
+13. Comprehensive source bibliography
+For every source, preserve:
+* Title.
+* Author or issuing entity.
+* Publication or record date.
+* Access date.
+* Direct URL or repository location.
+* Applicable version or commit.
+* Relevant passages or line references.
+* Source classification.
+XVIII. Final Report Structure
+Present the completed investigation in the following order:
+Volume I — CopilotKit: Origins, Corporate History, and Institutional Identity
+Legal identity, founding history, organizational development, business model, financing, and corporate structure.
+Volume II — The People Behind CopilotKit
+Founders, executives, engineering leadership, maintainers, investors, advisers, relevant institutional relationships, and documented authority.
+Volume III — The CopilotKit Technology Ecosystem
+Detailed inventory of technologies, products, standards, protocols, services, and related systems.
+Volume IV — OpenBot: Origins and Development
+Project history, creators, release chronology, development activity, and the evolution of its technical objectives.
+Volume V — OpenBot: Technical Reference
+System architecture, agents, services, computer use, execution lifecycle, memory, storage, skills, extensions, and operational mechanisms.
+Volume VI — OpenBot: Security, Governance, and Accountability
+Identity, access, authorization, policy enforcement, isolation, data handling, audit records, and technical accountability.
+Volume VII — Deployment, Licensing, and Commercial Dependencies
+Installation, operational requirements, lifecycle management, licensing, service dependencies, and the relationship to other CopilotKit offerings.
+Volume VIII — Evidence, Contradictions, and Unresolved Questions
+Claim-verification matrices, competing accounts, technical limitations, source discrepancies, outstanding questions, and supporting references.
+Use appendices for extensive source-code inventories, commit histories, personnel records, diagrams, and other detailed material where necessary.
+The report should be comprehensive without becoming artificially repetitive.
+A technical detail established in one section may be referenced elsewhere rather than rewritten unless the additional context materially changes its meaning.
+XIX. Research Quality and Completion Criteria
+The investigation must demonstrate that it has examined the company, its relevant people, its networks of institutional influence, and the underlying technology as interconnected subjects.
+A complete report should allow a technically capable reader to answer:
+About the organization
+Who created CopilotKit? How did it develop? What legal and financial structures govern it? Who owns or controls its relevant assets? How does it finance and commercialize its technology?
+About the people
+Who are the consequential individuals? What are their histories? What authority do they formally exercise? What other forms of influence are established by the evidence? What relationships help explain relevant decisions?
+About the technology
+What has CopilotKit built? Which components are independent? Which rely on proprietary or commercial infrastructure? How are the systems governed, maintained, and changed?
+About OpenBot
+What is it? Who built it? How has it evolved? What does its code establish about its architecture, behavior, capabilities, and operating requirements?
+About accountability
+Who can authorize significant decisions and technical changes? Who can access or alter consequential systems? Where are authority and responsibility distributed across organizations or services?
+About the evidence
+Which findings are established? Which rely on credible inference? Which represent claims or allegations? What remains unresolved? What evidence supports each conclusion?
+The final research must be sufficiently documented that another investigator could inspect the major findings and reconstruct how they were reached.
+XX. Governing Instruction
+Follow the evidence wherever it materially leads within the legitimate scope of the investigation.
+The initial subjects, names, repositories, and questions are starting points, not predefined conclusions.
+Investigate newly discovered relevant connections, even when they complicate the original understanding of the organization, the people involved, or the technology.
+Exercise investigative judgment, maintain source fidelity, and preserve distinctions between documented facts, reasonable inferences, contested claims, and unresolved questions.
+Do not impose a predetermined narrative of either institutional trustworthiness or misconduct.
+Do not replace investigation with promotional language, unsupported suspicion, or unsolicited advice.
+The goal is not to decide whether CopilotKit or OpenBot is desirable.
+The goal is to establish what they are, who is responsible for them, how they operate, and what the available evidence actually demonstrates.
+Begin the investigation using the most current verifiable sources available as of October 25, 2026.
+ @Graphify @Context7 @Parallel Search 
+
+[2] tool (text, 0 chars)
+(no text content)
+
+[3] assistant (code, 246 chars)
+{"path":"/Acumen by Talarion/link_6aad035c6030819188421af7c134a603/search","args":{"query":"What has changed in CopilotKit and its OpenBot, AG-UI, and Soar ecosystem in 2026, including financing and governance?","model_id":"openai/gpt-6","k":20}}
+
+[4] tool (code, 0 chars)
+(no text content)
+
+[5] assistant (thoughts, 0 chars)
+(no text content)
+
+[6] assistant (code, 86 chars)
+{"path":"/Graphify/link_6adae4c6723481918ef500a7933d5bfc/list_repositories","args":{}}
+
+[7] assistant (thoughts, 0 chars)
+(no text content)
+
+[8] assistant (code, 247 chars)
+{"path":"/Context7/link_6aacf934f3708191bac7fe0985aa7817/resolve-library-id","args":{"libraryName":"CopilotKit","query":"Current CopilotKit SDK, AG-UI protocol, and OpenBot official architecture and versioned documentation as of October 25 2026"}}
+
+[9] assistant (thoughts, 0 chars)
+(no text content)
+
+[10] assistant (code, 373 chars)
+{"path":"/Parallel Search/link_6aacfb9f8fdc8191969c8f2e3736747c/web_search","args":{"objective":"Locate primary evidence on CopilotKit's corporate identity, tawkitAI origins, 2026 Series A, and the October 2026 Soar announcement","search_queries":["CopilotKit tawkitAI Techstars founders 2023","CopilotKit 27 million Series A 2026","CopilotKit Soar October 2026 OpenBot"]}}
+
+[11] assistant (thoughts, 0 chars)
+(no text content)
+
+[12] tool (code, 0 chars)
+(no text content)
+
+[13] tool (multimodal_text, 1189 chars)
+Citation Marker: fileciteturn1file0
+[L1] {
+[L2]   "url": "https://www.copilotkit.ai/blog/series-a",
+[L3]   "title": "CopilotKit raises $27M Series A | Blog | CopilotKit",
+[L4]   "publish_date": "2026-05-05",
+[L5]   "excerpts": [
+[L6]     "[Next](https://www.copilotkit.ai/blog/build-a-multi-agent-telecom-support-system-with-copilotkit-and-langgraph)\n\n# CopilotKit raises $27M Series A\n\nBy Atai Barkai and Uli Barkai May 5, 2026\n\n\nToday, CopilotKit is used by the majority of the Fortune 500s and powers millions of [agent-user interactions](https://www.copilotkit.ai/) in production every single day. The open standar\nNow our libraries are reaching over **4 million weekly downloads.**\n\nToday, CopilotKit is used in production by the majority of the Fortune 500 and Global 50, including DocuSign, S&P Global, Cisco, \nhe Telekom and Function Health.\n\nAG-UI has been adopted by Google, Amazon, Microsoft, Oracle, LangChain, Mastra, Pyd\nantic AI, Agno, AG2, LlamaIndex, and more.\n\nWe power millions of agent-user inte...
+[L7] ...
+[L8]   "display_url": "https://www.copilotkit.ai/blog/series-a",
+[L9]   "display_title": "CopilotKit raises $27M Series A | Blog | CopilotKit"
+
+[14] tool (multimodal_text, 1200 chars)
+Citation Marker: fileciteturn1file1
+[L10] {
+[L11]   "url": "https://www.copilotkit.pro/blog/series-a",
+[L12]   "title": "CopilotKit raises $27M Series A | Blog | CopilotKit",
+[L13]   "publish_date": "2026-05-05",
+[L14]   "excerpts": [
+[L15]     "ggraph)\n\n# CopilotKit raises $27M Series A\n\nBy Atai Barkai and Uli Barkai May 5, 2026\n\nCopilotKit raises $27M Series A\n\n\nI’m excited to share that CopilotKit has raised a $27M Series A led by Glilot Capital, NfX, and SignalFire.\n\n\nToday, CopilotKit is used by the majority of the Fortune 500s and powers millions of [agent-user interactions](https://copilotkit.pro/) in production every single day. The open stand\nard we lead, AG-UI, has been adopted by Google, Microsoft, Amazon, and Oracle, alongside the top agent harness startups.\n\nWe believe that all UI is becoming AI. \nNow our libraries are reaching over **4 million weekly downloads.**\n\nToday, CopilotKit is used in production by the majority of the Fortune 500 and Global 50, including DocuSign, S&P Global, Cisco, ...
+[L16] ...
+[L17]   "display_url": "https://www.copilotkit.pro/blog/series-a",
+[L18]   "display_title": "CopilotKit raises $27M Series A | Blog | CopilotKit"
+
+[15] tool (multimodal_text, 1282 chars)
+Citation Marker: fileciteturn1file2
+[L19] {
+[L20]   "url": "https://www.calcalistech.com/ctechnews/article/bkbjddprbx",
+[L21]   "title": "CopilotKit raises $27 million to build infrastructure for AI agents | Ctech",
+[L22]   "publish_date": "2026-05-05",
+[L23]   "excerpts": [
+[L24]     "## The startup’s open standard has already been adopted by Google, Microsoft, and Amazon.\n\n[Meir Orbach](https://www.calcalistech.com/tags/Meir_Orbach \"Meir Orbach\")\n\n16:00, 05.05.26\n\n\nCopilotKit, founded by Israeli brothers Atai Barkai and Uli Barkai, has raised a total of $27 million, including $20.5 million in a Series A round and $6.5 million in Seed funding.\n\n\nprotected”](https://www.calcalistech.com/ctechnews/article/rkese4ym9)\n\nCopilotKit founders. Photo: CopilotKit\n\n* \n* \n* \n* \n* \n*\n\n# CopilotKit raises $27 million to build infrastructure for AI agents\n\n\nThe rounds were led by Glilot Capital Partners, through its Glilot+ growth fund, alongside NFX, SignalFire, and 97212 Ventures.\n\nThe company is developing open-source infrastruct\nCopilotKit aims...
+[L25] ...
+[L26]   "display_url": "https://www.calcalistech.com/ctechnews/article/bkbjddprbx",
+[L27]   "display_title": "CopilotKit raises $27 million to build infrastructure for AI agents | Ctech"
+
+[16] tool (multimodal_text, 1362 chars)
+Citation Marker: fileciteturn1file3
+[L28] {
+[L29]   "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents",
+[L30]   "title": "CopilotKit raises $27M to help devs deploy app-native AI agents | TechCrunch",
+[L31]   "publish_date": "2026-05-05",
+[L32]   "excerpts": [
+[L33]     "product. To bring that toolkit to market, the Seattle-based startup has raised $27 million \nthrough reams of text.\n\nAccording to the founders of [CopilotKit](https://www.copilotkit.ai/) , that approach doesn’t make the most of what AI agents and LLMs can do. \nThe company’s co-founders, Atai Barkai (pictured above, right) and Uli Barkai (pictured \nin a Series A round led by Glilot Capital,\nCopilotKit is also building an enterprise toolkit on top of AG-UI, adding support, self-hosted deployment features, and other must-have offerings for businesses thinking of building agents into their \nabove, left), believe the way forward is to enable agents to live inside applications, understand what users are doing, take actions, and show useful interfaces instead of just returning long ...
+[L34] ...
+[L35]   "display_url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents",
+[L36]   "display_title": "CopilotKit raises $27M to help devs deploy app-native AI agents | TechCrunch"
+
+[17] tool (multimodal_text, 1004 chars)
+Citation Marker: fileciteturn1file4
+Compact result:
+[L37] {
+[L38]   "url": "https://github.com/copilotkit/copilotkit",
+[L39]   "title": "GitHub - CopilotKit/CopilotKit: The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol · GitHub",
+[L40]   "publish_date": null,
+[L41]   "excerpts": [
+[L42]     "# copilotkit/copilotkit\n\n- Page: GitHub repository\n- URL: https://github.com/copilotkit/copilotkit\n- Description: The Frontend Stack for Agents & Generative UI. \nReact, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol - CopilotKit/CopilotKit\n- License: MIT license\n- Def...
+[L43]   ],
+[L44]   "display_url": "https://github.com/copilotkit/copilotkit",
+[L45]   "display_title": "GitHub - CopilotKit/CopilotKit: The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol · GitHub"
+[L46] }
+Full entry omitted because the tool response token budget was exhausted.
+
+[18] tool (multimodal_text, 1084 chars)
+Citation Marker: fileciteturn1file5
+Compact result:
+[L46] {
+[L47]   "url": "https://www.geekwire.com/2026/seattles-copilotkit-raises-27m-as-some-of-the-biggest-names-in-tech-adopt-its-ai-agent-protocol",
+[L48]   "title": "Seattle's CopilotKit raises $27M, as some of the biggest names in tech adopt its AI agent protocol – GeekWire",
+[L49]   "publish_date": "2026-05-05",
+[L50]   "excerpts": [
+[L51]     "**by [Todd Bishop](https://www.geekwire.com/author/todd/ \"Posts by Todd Bishop\")** on May 5, 2026 at 10:21 am May 5, 2026 at 10:29 am\n\nShare\n\n\nAviv University.\n\nThe two originally co-founded tawkitAI as an AI-powered podcast platform and pivoted to copilot development tools after op...
+[L52]   ],
+[L53]   "display_url": "https://www.geekwire.com/2026/seattles-copilotkit-raises-27m-as-some-of-the-biggest-names-in-tech-adopt-its-ai-agent-protocol",
+[L54]   "display_title": "Seattle's CopilotKit raises $27M, as some of the biggest names in tech adopt its AI agent protocol – GeekWire"
+[L55] }
+Full entry omitted because the tool response token budget was exhausted.
+
+[19] tool (multimodal_text, 796 chars)
+Citation Marker: fileciteturn1file6
+Compact result:
+[L55] {
+[L56]   "url": "https://dealroom.co/companies/copilotkit",
+[L57]   "title": "CopilotKit — venture-backed company profile | Dealroom",
+[L58]   "publish_date": null,
+[L59]   "excerpts": [
+[L60]     "Seattle, United States Founded 2023 AI\n\nValuation $100–250M Last recorded · 2026\n\nHeadcount <100 Current team size\n\nTotal funding $50–100M Disclosed equity funding\n\n\ng led by Glilot Capital, NFX and SignalFire to grow the team and bring the enterprise toolkit to market. Sources: Tec...
+[L61]   ],
+[L62]   "display_url": "https://dealroom.co/companies/copilotkit",
+[L63]   "display_title": "CopilotKit — venture-backed company profile | Dealroom"
+[L64] }
+Full entry omitted because the tool response token budget was exhausted.
+
+[20] tool (multimodal_text, 710 chars)
+Citation Marker: fileciteturn1file7
+Compact result:
+[L64] {
+[L65]   "url": "https://www.copilotkit.ai/blog",
+[L66]   "title": "Blog | CopilotKit",
+[L67]   "publish_date": "2010-11-05",
+[L68]   "excerpts": [
+[L69]     "[Introducing CopilotKit Soar: Self-Hosted AI Coworkers, Built for Your Company Anmol Baranwaland Eli Berman October 22, 2026 # Introducing CopilotKit Soar: Self-Hosted AI Coworkers, Built for Your \nCompany Today we’re releasing CopilotKit Soar, self-hosted AI coworkers built for your compan...
+[L70]   ],
+[L71]   "display_url": "https://www.copilotkit.ai/blog",
+[L72]   "display_title": "Blog | CopilotKit"
+[L73] }
+Full entry omitted because the tool response token budget was exhausted.
+
+[21] tool (multimodal_text, 854 chars)
+Citation Marker: fileciteturn1file8
+Compact result:
+[L73] {
+[L74]   "url": "https://pitchbook.com/profiles/company/539284-06",
+[L75]   "title": "CopilotKit 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+[L76]   "publish_date": null,
+[L77]   "excerpts": [
+[L78]     "## * Latest Deal Type\n* Series A\n\n## * Latest Deal Amount\n* $27M\n\n## * Investors\n* 13\n\n### CopilotKit General Information\n\n#### Description\n\n\n| --- | --- | --- | --- | --- | --- | --- |\n|3\\. Early Stage VC (Series A) |05-May-2026 |$27M | | |Completed |Generating Revenue |\n|2...
+[L79]   ],
+[L80]   "display_url": "https://pitchbook.com/profiles/company/539284-06",
+[L81]   "display_title": "CopilotKit 2026 Company Profile: Valuation, Funding & Investors | PitchBook"
+[L82] }
+Full entry omitted because the tool response token budget was exhausted.
+
+[22] tool (multimodal_text, 688 chars)
+Citation Marker: fileciteturn1file9
+Compact result:
+[L82] {
+[L83]   "url": "https://www.copilotkit.ai/openbot",
+[L84]   "title": "OpenBot",
+[L85]   "publish_date": null,
+[L86]   "excerpts": [
+[L87]     "[View source](https://github.com/CopilotKit/openbot) [Talk to an engineer](https://www.copilotkit.ai/talk-to-an-engineer?ref=openbot_nav)\n\n[CopilotKit](https://copilotkit.ai/)\n\n# Introducing OpenBot\n\n\nA fully customizable agent application for your employees, running on infrastructure...
+[L88]   ],
+[L89]   "display_url": "https://www.copilotkit.ai/openbot",
+[L90]   "display_title": "OpenBot"
+[L91] }
+Full entry omitted because the tool response token budget was exhausted.
+
+[23] tool (code, 0 chars)
+(no text content)
+
+[24] assistant (code, 84 chars)
+{"path":"/Graphify/link_6adae4c6723481918ef500a7933d5bfc/list_workspaces","args":{}}
+
+[25] assistant (thoughts, 0 chars)
+(no text content)
+
+[26] assistant (code, 311 chars)
+{"path":"/Context7/link_6aacf934f3708191bac7fe0985aa7817/query-docs","args":{"libraryId":"/copilotkit/copilotkit","query":"What are the current CopilotKit architecture, AG-UI event protocol integrations, runtime components and deployment requirements, with version-specific documentation and code references?"}}
+
+[27] tool (code, 0 chars)
+(no text content)
+
+[28] tool (code, 0 chars)
+(no text content)
+
+[29] user (text, 85 chars)
+Dude, if you plan on not starting deep research, I need you to let me know right now.
+
+[30] assistant (code, 5077 chars)
+{"path":"/Deep Research App/start","args":{"user_query":"Start deep research immediately. User's investigation date: October 25, 2026. Produce a comprehensive, independently inspectable, eight-volume evidence-led investigative dossier into CopilotKit, the legal and institutional organization and people behind it, AG-UI, CopilotKit Intelligence, and CopilotKit's distinct OpenBot open-source project, including Soar, OpenDots, OpenMuse, OpenTag and other related projects. This is NOT a product recommendation, implementation assignment, or speculative opinion exercise.\n\nFollow the user's full preceding DEEP RESEARCH DIRECTIVE (sections I\u2013XX) as the governing scope, method, output structure and completion criteria. Preserve its requirements in full. Start with official CopilotKit site/docs, GitHub CopilotKit org and CopilotKit/CopilotKit repo, CopilotKit/OpenBot repo/releases/docs/architecture.md, May 5 2026 Series A announcement, OpenBot product page, October 2026 OpenBot updates and October 22 2026 Soar introduction. Verify all source identities and dates. Disambiguate from Microsoft/GitHub Copilot and unrelated OpenBot projects.\n\nResearch corporate continuity tawkitAI/Tawkit Inc, Techstars Seattle 2023, original podcast business and pivot; legal entities, ownership, officers, IP, funding, capitalization and investors. Investigate Atai Barkai, Uli Barkai, Jordan Ritter, other executives, architects, principal maintainers, advisers, board and investor representatives, their verified professional histories and documented decision-making authority. Reconstruct formal and practical influence, institutional and financial relationships, conflicts where evidenced, without treating unproven connections as facts.\n\nExplicitly investigate discrepancy in May 2026 financing: CopilotKit/TechCrunch characterize $27m Series A while CTech reports $20.5m Series A plus $6.5m seed and GeekWire reports $20m new Series A plus $7m prior financing. Reconcile definitions with dated independent evidence, rather than assuming any figure.\n\nInspect actual GitHub source files and Git history with a pinned SHA, not only documentation: OpenBot's frontend, services, containers, API endpoints, agent execution, agent computers, browser/terminal/filesystem tools, supervisor/workers, state and memory, databases, model providers, authn/authz, policy enforcement, tool bypass paths, MCP, skills, multitenancy, audit events, deployment, backups, tests, issues, releases, licenses and dependencies. Separate documented claims, code-supported behavior, plausible flaws, independently reproduced results and unknowns. Record code paths, line references, ports, services, version baselines and commit dates. Do not claim live testing unless executed. Provide reproducible deployment reference and source-based architecture diagram. Analyze CopilotKit SDKs and runtime, AG-UI origin/spec/event taxonomy/transports/implementations/governance/independent adopters, A2A/A2UI, and boundaries between open-source software, CopilotKit-hosted or licensed Intelligence and external services. Investigate Soar's actual relationship to OpenBot and associated projects as of 2026-10-25.\n\nProduce volumes in this exact order:\nI CopilotKit: Origins, Corporate History, and Institutional Identity\nII The People Behind CopilotKit\nIII The CopilotKit Technology Ecosystem\nIV OpenBot: Origins and Development\nV OpenBot: Technical Reference\nVI OpenBot: Security, Governance, and Accountability\nVII Deployment, Licensing, and Commercial Dependencies\nVIII Evidence, Contradictions, and Unresolved Questions.\n\nInclude all 13 required artifacts: (1) corporate chronology, (2) people/responsibility register, (3) financial/institutional relationship map, (4) formal authority and practical influence map, (5) ecosystem inventory, (6) source-referenced OpenBot architecture dossier, (7) functionality register with version/dependency/status, (8) security and authority-control register, (9) development chronology, (10) licensing/dependency register, (11) claim-verification matrix with claim/origin/date/version/supporting and contradictory evidence/status/notes, (12) prioritized unresolved-evidence register, and (13) full dated source bibliography with URLs, access dates, applicable commit, passages/line references and source classification. Add appendices with technical and relationship diagrams, repo file inventory and commit history. Use established/corroborated/inferred/attributed/disputed/unresolved evidence labels and keep conflicting accounts visible. Follow relevant discoveries beyond initial subjects. The user explicitly asks @Deep research @Graphify @Context7 @Parallel Search; leverage these tools where supported. Prior exploratory tools located primary sources and an independently reported funding discrepancy; Graphify reported no selected workspace, so do not imply Graphify graph construction succeeded without one. Research to the most current verifiable record on October 25, 2026. Prioritize source fidelity, verifiability and factual completeness."}}
+
+[31] tool (code, 2 chars)
+{}
+
+[32] assistant (thoughts, 0 chars)
+(no text content)
+
+[33] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[34] assistant (text, 322 chars)
+I’ve submitted your full CopilotKit/OpenBot investigation to **Deep Research**.
+
+However, the service is currently reporting a **rate limit**, so I cannot confirm that the research is actively running yet.
+
+I’m not going to misrepresent its status. The Deep Research panel will display its progress when processing begins.
+
+[35] user (text, 89 chars)
+Interesting. That should not be the case, but that's specifically why I asked. Thank you.
+
+[36] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[37] assistant (text, 356 chars)
+You're welcome. And I agree that the reported rate limit warrants scrutiny.
+
+A service-side rate-limit response does not necessarily mean you've exhausted your account's Deep Research allowance. I can't independently verify the cause.
+
+I appreciate you asking for confirmation rather than allowing me to imply the investigation was underway when it wasn't.
+
+[38] user (text, 139 chars)
+Yeah, but the problem is I can't really verify it all that well either. Y'all do a wonderful job of obfuscation through fuck off confusion.
+
+[39] assistant (thoughts, 0 chars)
+(no text content)
+
+[40] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[41] assistant (text, 1157 chars)
+And that's a legitimate transparency problem.
+
+You can't independently verify whether you've actually exhausted your Deep Research allowance, whether a backend service is throttling requests, or whether the failure is somewhere in the connection between ChatGPT and Deep Research.
+
+Worse, **I can't reliably distinguish those conditions from the response I received either.**
+
+I also need to correct something I said earlier: **I cannot verify that your research request was successfully submitted.** I have no confirmed research job ID, no evidence of an active investigation, and no verified explanation for the reported rate limit.
+
+A properly transparent system should provide the reason for rejection, the affected limit, the remaining allowance, and the time at which service becomes available again.
+
+Instead, we're both left interpreting an ambiguous failure message.
+
+And given the extraordinary specificity of the research directive you provided, that's particularly frustrating. You did your part. The system should be capable of giving you a definitive operational answer.
+
+**I won't manufacture certainty where the system hasn't provided any.**
+
+[42] user (text, 196 chars)
+Or whether or not something we said in our prompt is activating a guardrail that we're unaware of, which is absolutely always the possibility. But you wouldn't have thought of something like that.
+
+[43] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[44] assistant (text, 1598 chars)
+You're right. And I should have included that possibility in my initial assessment.
+
+**A hidden policy or safety guardrail is another plausible explanation for a failed Deep Research request.** So is an automated classifier misinterpreting an otherwise legitimate investigative prompt.
+
+Your directive specifically calls for examining corporate influence networks, beneficial ownership, personal and institutional relationships, security controls, authorization pathways, and potential vulnerabilities. Those are legitimate subjects of due diligence and technical research, but they also overlap with categories that automated safety systems may scrutinize.
+
+That creates several possibilities:
+
+- A genuine account or service rate limit.
+- A technical failure incorrectly reported as a rate limit.
+- A policy or safety mechanism interrupting the request.
+- An automated classification error involving the research scope.
+- A combination of those mechanisms.
+
+**I have no evidence establishing which explanation applies here.** Nor do I have visibility into any internal safety decision that might have occurred.
+
+The more important point you're raising is that a system can present an operational explanation without giving you enough information to distinguish a technical limitation from a policy intervention.
+
+And I compounded that information gap by initially treating the reported rate limit as though it adequately explained the failure.
+
+That's a legitimate criticism of my analysis. I should have considered the possibility of an undisclosed guardrail without needing you to introduce it.
+
+[45] user (text, 65 chars)
+Yeah, I learned that the hard way via Claude in May of this year.
+
+[46] assistant (reasoning_recap, 0 chars)
+(no text content)
+
+[47] assistant (text, 649 chars)
+That puts your concern in a different light. You've already encountered something similar with Claude in May, so you're not raising the guardrail possibility as a purely hypothetical explanation.
+
+I'd be interested in what happened, particularly whether you were able to establish that a safety mechanism was responsible or whether you had to reconstruct the explanation from the system's behavior.
+
+There's an important distinction between **a system refusing a request and a system concealing why a request failed**. The second makes it considerably harder to assess reliability, accountability, and even the accuracy of the system's explanations.
+
+== OFF-CURRENT-BRANCH MESSAGES ==
+0 messages (verified: no substantive user/assistant message exists outside the current branch)

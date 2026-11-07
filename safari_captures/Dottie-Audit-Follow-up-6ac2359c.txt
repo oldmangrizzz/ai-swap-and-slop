@@ -1,0 +1,16 @@
+# title: Dottie Audit Follow-up
+# url: https://chatgpt.com/c/6ac2359c-2b3c-83e9-9197-c00cb7b15fb1
+# captured: 2026-11-07T07:05:23-0600
+# method: safari-authenticated-api (chatgpt.com/backend-api/conversation, canonical thread)
+# conv_id: 6ac2359c-2b3c-83e9-9197-c00cb7b15fb1
+# group: sidebar
+# messages: 1 total = 0 user + 1 assistant + 0 tool
+# create_time: 1791112624.337754  update_time: 1791112625.431002  default_model: gpt-5-6-thinking
+# complete: true
+# note: text is the canonical message content from the account API, not an AX scroll capture;
+#       AX tree capture is lossy under transcript virtualization (verified 2026-11-07).
+
+[1] assistant (text, 293 chars)
+Reminder: return to the **Dottie / Project Sovereign full-corpus research audit** and continue the **line-by-line, source-grounded review** from where you left off.
+
+The audit is **not being treated as complete** unless and until the full corpus has actually been reviewed in the conversation.
